@@ -26,3 +26,35 @@
 
 * File structure must be list of sections (each with name and hash of properties)
 * Only string datatypes natively supported for property values
+
+
+## YAML format
+
+### Benefits of this format
+
+* Easily readable
+* Spaces allowed in key and value names
+* Many datatypes supported natively (boolean, numeric, strings, lists, hashes)
+
+### Limitations
+
+* May not be as familiar as INI or XML
+* Top level structure uses an unorded hash unless `- ` is prepended to section names
+* Section names using symbols (like `*`) must be surrounded by quotes
+
+### Example file
+
+```yaml
+- root: true
+
+- "*":
+  - end of line: LF
+
+- "*.py":
+  - indent style: space
+  - indent size: 4
+
+- "*.html":
+  - indent style: space
+  - indent size: 2
+```
