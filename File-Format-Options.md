@@ -76,11 +76,13 @@
 
 ### Example file
 
+```xml
 <setting root="true"/>
 <pattern glob="*.py">
      <indentation style="space" size="4" tabwidth="4"/>
      <end_of_line style="LF"/>
 </pattern>
+```
 
 
 ## Other possible formats:
