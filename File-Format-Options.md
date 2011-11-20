@@ -21,6 +21,7 @@
 
 * Very readable
 * Familiar and easy to pick up
+* Difficult to mess up (syntax is very simple)
 
 ### Limitations
 
@@ -58,3 +59,25 @@
   - indent style: space
   - indent size: 2
 ```
+
+
+## XML
+
+### Benefits of this format
+
+* XML parsers and formatters are readily available
+* Format is flexible enough that drastic changes should not be necessary
+* Probably somewhat familiar due to widespread use of XML-based markup
+
+### Limitations
+
+* Not very human readible
+* Cumbersome to create and modify due to often verbose syntax
+
+### Example file
+
+<setting root="true"/>
+<pattern glob="*.py">
+     <indentation style="space" size="4" tabwidth="4"/>
+     <end_of_line style="LF"/>
+</pattern>
