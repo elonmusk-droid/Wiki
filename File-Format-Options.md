@@ -21,3 +21,8 @@
 
 * Very readable
 * Familiar and easy to pick up
+
+### Limitations
+
+* File structure must be list of sections (each with name and hash of properties)
+* Only string datatypes natively supported for property values
