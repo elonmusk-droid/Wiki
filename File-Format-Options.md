@@ -81,3 +81,11 @@
      <indentation style="space" size="4" tabwidth="4"/>
      <end_of_line style="LF"/>
 </pattern>
+
+
+## Other possible formats:
+
+* Lua
+* Struxt
+* UDO
+* JSON
