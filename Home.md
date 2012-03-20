@@ -1,1 +1,1 @@
-Welcome to the editorconfig.github.com wiki!
+Welcome to the EditorConfig wiki!
