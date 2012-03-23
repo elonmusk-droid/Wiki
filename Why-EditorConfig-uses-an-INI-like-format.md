@@ -1,3 +1,5 @@
+The INI file format was chosen for EditorConfig due to its ease of use.  Some of the thought process that resulted in the current INI-based EditorConfig format is included below.
+
 ## INI format
 
 ### Required modifications to this format
