@@ -7,4 +7,6 @@ tables (sqlite3, etc.)
 
 [jquery-formrestrict](https://github.com/treyhunner/jquery-formrestrict) -- jQuery plugin to restrict form input
 
-[vim-live-preview](https://github.com/xuhdev/vim-live-preview) -- A Vim Plugin for Lively Previewing Your LaTeX PDF Output
+[vim-live-preview](https://github.com/xuhdev/vim-live-preview) -- A vim plugin for lively previewing LaTeX PDF output
+
+[SingleCompile](https://github.com/xuhdev/SingleCompile) -- A vim plugin making it more convenient to compile or run a single source file
