@@ -7,4 +7,4 @@ tables (sqlite3, etc.)
 
 [jquery-formrestrict](https://github.com/treyhunner/jquery-formrestrict) -- jQuery plugin to restrict form input
 
-[Hong Xu's Homepage](http://github.com/xuhdev/homepage) -- Hong Xu's Personal Homepage and Blog
+[vim-live-preview](https://github.com/xuhdev/vim-live-preview) -- A Vim Plugin for Lively Previewing Your LaTeX PDF Output
