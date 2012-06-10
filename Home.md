@@ -1,1 +1,4 @@
-Please see [this page](https://github.com/editorconfig/editorconfig/wiki/_pages) for EditorConfig wiki.
+Welcome to EditorConfig wiki!
+
+- [Links & Resources](https://github.com/editorconfig/editorconfig/wiki/Links-&-Resources)
+- [Projects Using EditorConfig](https://github.com/editorconfig/editorconfig/wiki/Projects-Using-EditorConfig)
