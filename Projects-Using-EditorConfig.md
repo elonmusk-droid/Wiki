@@ -1,5 +1,9 @@
 An incomplete list of projects that are using EditorConfig:
 
+[jQuery](https://github.com/jquery/jquery)
+
+[jQuery UI](https://github.com/jquery/jquery-ui) -- The official jQuery user interface library
+
 [tags2db](http://xuhdev.github.com/tags2db) -- Converts tags files (ctags, gccxml, etc.) to database
 tables (sqlite3, etc.)
 
