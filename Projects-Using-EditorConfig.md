@@ -1,6 +1,6 @@
 An incomplete list of projects that are using EditorConfig:
 
-[jQuery](https://github.com/jquery/jquery)
+[jQuery](https://github.com/jquery/jquery) -- jQuery JavaScript Library
 
 [jQuery UI](https://github.com/jquery/jquery-ui) -- The official jQuery user interface library
 
