@@ -4,6 +4,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [jQuery UI](https://github.com/jquery/jquery-ui) -- The official jQuery user interface library
 
+[Modernizr](https://github.com/Modernizr/Modernizr) -- Feature detect HTML5 and CSS3 features
+
 [tags2db](http://xuhdev.github.com/tags2db) -- Converts tags files (ctags, gccxml, etc.) to database
 tables (sqlite3, etc.)
 
