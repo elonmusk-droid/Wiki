@@ -30,3 +30,17 @@ This document details current EditorConfig properties and ideas for future prope
 		<tr><td>newline_at_end_of_file</td><td>"true" or "false"</td><td>Denotes whether file should end with a newline</td></tr>
 	</tbody>
 </table>
+
+## Ideas for Future Non-Standard Properties
+
+Some of these options are inspired by <a href="https://github.com/fawek/codepainter">codepainter</a>.
+
+<table>
+	<thead>
+		<tr><th>Property</th><th>Possible Values</th><th>Purpose</th></tr>
+	</thead>
+	<tbody>
+		<tr><td>quote_type</td><td>"single" or "double"</td><td>Denotes preferred quoting style for string literals (for languages that support multiple quote styles)</td></tr>
+		<tr><td>spaces_around_operators</td><td>"true" or "false"</td><td>Denotes whether spaces should be present around arithmetic and boolean operators</td></tr>
+	</tbody>
+</table>
