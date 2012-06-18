@@ -16,7 +16,7 @@ This document details current EditorConfig properties and ideas for future prope
 	</tbody>
 </table>
 
-## Ideas for Future Standard Properties
+## Ideas for Future Universal Properties
 
 <table>
 	<thead>
@@ -28,10 +28,11 @@ This document details current EditorConfig properties and ideas for future prope
 		<tr><td>allow_trailing_space</td><td>"true" or "false"</td><td>Denotes whether whitespace is allowed at the end of lines</td></tr>
 		<tr><td>indent_blank_lines</td><td>"true" or "false"</td><td>Denotes whether blank lines should contain indented whitespace</td></tr>
 		<tr><td>newline_at_end_of_file</td><td>"true" or "false"</td><td>Denotes whether file should end with a newline</td></tr>
+		<tr><td>spaces_around_operators</td><td>"true" or "false"</td><td>Denotes whether spaces should be present around arithmetic and boolean operators</td></tr>
 	</tbody>
 </table>
 
-## Ideas for Future Non-Standard Properties
+## Ideas for Future Domain Specific Properties
 
 Some of these options are inspired by <a href="https://github.com/fawek/codepainter">codepainter</a>.
 
@@ -41,6 +42,6 @@ Some of these options are inspired by <a href="https://github.com/fawek/codepain
 	</thead>
 	<tbody>
 		<tr><td>quote_type</td><td>"single" or "double"</td><td>Denotes preferred quoting style for string literals (for languages that support multiple quote styles)</td></tr>
-		<tr><td>spaces_around_operators</td><td>"true" or "false"</td><td>Denotes whether spaces should be present around arithmetic and boolean operators</td></tr>
+		
 	</tbody>
 </table>
