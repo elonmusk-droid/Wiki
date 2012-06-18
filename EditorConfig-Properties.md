@@ -29,6 +29,7 @@ This document details current EditorConfig properties and ideas for future prope
 		<tr><td>indent_blank_lines</td><td>"true" or "false"</td><td>Denotes whether blank lines should contain indented whitespace</td></tr>
 		<tr><td>newline_at_end_of_file</td><td>"true" or "false"</td><td>Denotes whether file should end with a newline</td></tr>
 		<tr><td>spaces_around_operators</td><td>"true" or "false"</td><td>Denotes whether spaces should be present around arithmetic and boolean operators</td></tr>
+		<tr><td>spaces_around_brackets</td><td>"none", "inside", "outside", or "both"</td><td>Denotes how spaces should be arround brackets and parentheses: no space, only inside the brackets, only outside the brackets, or at the both side of brackets</td></tr>
 	</tbody>
 </table>
 
