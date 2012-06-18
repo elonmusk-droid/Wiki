@@ -34,8 +34,6 @@ This document details current EditorConfig properties and ideas for future prope
 
 ## Ideas for Future Domain Specific Properties
 
-Some of these options are inspired by <a href="https://github.com/fawek/codepainter">codepainter</a>.
-
 <table>
 	<thead>
 		<tr><th>Property</th><th>Possible Values</th><th>Purpose</th></tr>
@@ -45,3 +43,5 @@ Some of these options are inspired by <a href="https://github.com/fawek/codepain
 		
 	</tbody>
 </table>
+
+_* Some of these options above are inspired by [codepainter](https://github.com/fawek/codepainter)._
