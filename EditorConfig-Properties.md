@@ -40,7 +40,9 @@ This document details current EditorConfig properties and ideas for future prope
 	</thead>
 	<tbody>
 		<tr><td>quote_type</td><td>"single" or "double"</td><td>Denotes preferred quoting style for string literals (for languages that support multiple quote styles)</td></tr>
-		
+		<tr><td>c_include_path</td><td>Directory paths separated by colon (<code>:</code>)</td><td>Denotes the include paths of header files for some C family languages, such as C, C++, D, Objective-C, etc. Could be used by syntax checkers and compilers inside editors.</td></tr>
+		<tr><td>java_class_path</td><td>Denotes the CLASSPATH used by the Java source files. Could be used by some Java syntax checkers and compilers inside editors.</td></tr>
+		<tr><td>curly_bracket_next_line</td><td>"true" or "false"</td><td>Denotes whether the left part of the curly bracket should be on the next line or not for some C family languages, such as C, C++, Java, Javascript, etc.</td><tr>
 	</tbody>
 </table>
 
