@@ -44,4 +44,4 @@ This document details current EditorConfig properties and ideas for future prope
 	</tbody>
 </table>
 
-_* Some of these options above are inspired by [codepainter](https://github.com/fawek/codepainter)._
+_* Some of the options above are inspired by [codepainter](https://github.com/fawek/codepainter)._
