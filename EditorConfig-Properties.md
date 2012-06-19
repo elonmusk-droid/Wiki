@@ -50,6 +50,7 @@ This document details current EditorConfig properties and ideas for future prope
 		<tr><td>curly_bracket_next_line</td><td>"true" or "false"</td><td>Denotes whether the left part of the curly bracket should be on the next line or not for some C family languages, such as C, C++, Java, Javascript, etc.</td><td></td><tr>
 		<tr><td>spaces_around_operators</td><td>"true" or "false"</td><td>Denotes whether spaces should be present around arithmetic and boolean operators</td><td>with infix operators and optional spaces</td></tr>
 		<tr><td>spaces_around_brackets</td><td>"none", "inside", "outside", or "both"</td><td>Denotes how spaces should be around brackets and parentheses: no space, only inside the brackets, only outside the brackets, or at the both side of brackets</td><td></td></tr>
+		<tr><td>indent_brace_style</td><td>"K&R", "Allman", "GNU", "Horstmann", etc.</td><td>Denotes the style for using curly braces in code blocks</td><td>languages with C-style code blocks using curly braces</td></tr>
 	</tbody>
 </table>
 
