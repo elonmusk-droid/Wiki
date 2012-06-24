@@ -1,18 +1,18 @@
 An incomplete list of projects that are using EditorConfig:
 
-[jQuery](https://github.com/jquery/jquery) -- jQuery JavaScript Library
+[jQuery](http://jquery.com/) ([source](https://github.com/jquery/jquery)) -- jQuery JavaScript Library
 
-[jQuery UI](https://github.com/jquery/jquery-ui) -- The official jQuery user interface library
+[jQuery UI](http://jqueryui.com/) ([source](https://github.com/jquery/jquery-ui)) -- The official jQuery user interface library
 
-[Modernizr](https://github.com/Modernizr/Modernizr) -- Feature detect HTML5 and CSS3 features
+[Modernizr](http://modernizr.com/) ([source](https://github.com/Modernizr/Modernizr)) -- Feature detect HTML5 and CSS3 features
 
-[tags2db](http://xuhdev.github.com/tags2db) -- Converts tags files (ctags, gccxml, etc.) to database
+[tags2db](http://xuhdev.github.com/tags2db) ([source](https://github.com/xuhdev/tags2db)) -- Converts tags files (ctags, gccxml, etc.) to database
 tables (sqlite3, etc.)
 
-[pycco](https://github.com/fitzgen/pycco) -- Literate-style documentation generator (Python port of docco)
+[pycco](http://fitzgen.github.com/pycco/) ([source](https://github.com/fitzgen/pycco)) -- Literate-style documentation generator (Python port of docco)
 
-[jquery-formrestrict](https://github.com/treyhunner/jquery-formrestrict) -- jQuery plugin to restrict form input
+[jquery-formrestrict](http://treyhunner.com/jquery-formrestrict/) ([source](https://github.com/treyhunner/jquery-formrestrict)) -- jQuery plugin to restrict form input
 
-[vim-latex-live-preview](https://github.com/xuhdev/vim-latex-live-preview) -- A vim plugin for lively previewing LaTeX PDF output
+[vim-latex-live-preview](https://github.com/xuhdev/vim-latex-live-preview#readme) ([source](https://github.com/xuhdev/vim-latex-live-preview)) -- A vim plugin for lively previewing LaTeX PDF output
 
-[SingleCompile](https://github.com/xuhdev/SingleCompile) -- A vim plugin making it more convenient to compile or run a single source file
+[SingleCompile](http://www.vim.org/scripts/script.php?script_id=3115) ([source](https://github.com/xuhdev/SingleCompile)) -- A vim plugin making it more convenient to compile or run a single source file
