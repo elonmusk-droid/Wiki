@@ -41,7 +41,7 @@ This document details current EditorConfig properties and ideas for future prope
 
 <table>
 	<thead>
-		<tr><th>Property</th><th>Possible Values</th><th>Purpose</th><th>Meaningful In File Formats</th></tr>
+		<tr><th>Property</th><th>Possible Values</th><th>Purpose</th><th>Domain</th></tr>
 	</thead>
 	<tbody>
 		<tr><td>quote_type</td><td>"single" or "double"</td><td>Denotes preferred quoting style for string literals (for languages that support multiple quote styles)</td><td>with multiple equivalent string literal quote types</td></tr>
