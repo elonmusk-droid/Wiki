@@ -24,6 +24,8 @@ This document details current EditorConfig properties and ideas for future prope
 
 ## Ideas for Future Universal Properties
 
+You can vote for what properties should be included in the next release [here](https://docs.google.com/spreadsheet/viewform?formkey=dFZId1FuR1RsWlRUV2dlc2lTMDBxRWc6MQ&ifq).
+
 <table>
 	<thead>
 		<tr><th>Property</th><th>Possible Values</th><th>Purpose</th></tr>
