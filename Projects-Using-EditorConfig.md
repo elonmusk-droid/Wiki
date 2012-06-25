@@ -18,3 +18,7 @@ tables (sqlite3, etc.)
 [vim-latex-live-preview](https://github.com/xuhdev/vim-latex-live-preview#readme) ([source](https://github.com/xuhdev/vim-latex-live-preview)) -- A vim plugin for lively previewing LaTeX PDF output
 
 [SingleCompile](http://www.vim.org/scripts/script.php?script_id=3115) ([source](https://github.com/xuhdev/SingleCompile)) -- A vim plugin making it more convenient to compile or run a single source file
+
+[Zikula](http://zikula.org/) ([source](https://github.com/zikula/core)) -- Zikula Core
+
+[Symfony2](http://symfony.com/) ([source](https://github.com/symfony/symfony)) -- Symfony2
