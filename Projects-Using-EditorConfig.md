@@ -6,6 +6,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Modernizr](http://modernizr.com/) ([source](https://github.com/Modernizr/Modernizr)) -- Feature detect HTML5 and CSS3 features
 
+[zsh-completions](http://github.com/zsh-users/zsh-completions#readme) ([source](http://github.com/zsh-users/zsh-completions)) -- Additional completion definitions for Zsh
+
 [tags2db](http://xuhdev.github.com/tags2db) ([source](https://github.com/xuhdev/tags2db)) -- Converts tags files (ctags, gccxml, etc.) to database
 tables (sqlite3, etc.)
 
