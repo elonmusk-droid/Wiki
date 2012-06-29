@@ -9,7 +9,7 @@ The most important detail to note first is what programming language your plugin
 
 After you determine which core library you should use, consult the plugin API to determine which EditorConfig properties your editor will be able to support.  Is there an option for setting indentation to tabs or spaces?  Is there an option for setting indentation size?  What about for setting specifically the width of a tab character?
 
-If you've done some research on your text editor and want to share what you've found or announce your efforts to create a plugin, start a discussion on the [mailing list][].  If you are having trouble getting started feel free to ask for help on the mailing list as well.
+If you've done some research on your text editor and want to share what you've found or announce your efforts to create a plugin, start a discussion on the [mailing list][].  If you are having trouble getting started, feel free to ask for help on the mailing list as well.
 
 ### What if there is no API or the API can't support EditorConfig properties?
 
