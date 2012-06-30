@@ -9,6 +9,16 @@ Understood values for this option will be:
 - `true`: a newline will be inserted at the end of the file automatically
 - `false`: no newline will be inserted at the end of the file automatically
 
+
+## Naming ideas
+
+The options would be `true` and `false` and would have the same behavior as descripbed above for all of the below option names.
+
+Names this option might have:
+- insert_final_newline
+- require_final_newline
+- insert_newline_at_end_of_file
+
 ## Support in Editors
 
 ### Vim
