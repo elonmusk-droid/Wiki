@@ -54,11 +54,13 @@ This [behavior cannot be changed][gedit newlines] in Gedit currently.  Gedit wil
 
 [gedit newlines]: https://bugs.launchpad.net/ubuntu/+source/gedit/+bug/379367
 
+
 ### Notepad++
 
 Default behavior:
 - shows the last newline at the end of the file
 - does not automatically add a newline when saving files
+
 
 ### jEdit
 
@@ -68,11 +70,13 @@ a trailing newline when it was opened
 - automatically adds a newline when saving for new files only
 (preserves missing newlines in existing files)
 
+
 ### Visual Studio
 
 Default behavior:
 - shows the last newline at the end of the file
 - does not automatically add a newline when saving
+
 
 ### Geany
 
