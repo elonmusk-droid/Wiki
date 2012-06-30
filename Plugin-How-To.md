@@ -1,26 +1,31 @@
+# How to Create an EditorConfig Plugin
+
 We want every text editor and IDE to understand `.editorconfig` files.  This document is a guide for EditorConfig plugin developers (or aspiring plugin developers).  If you want to make a plugin for your text editor, please read this document and consider the below suggestions while developing your plugin.
 
 
-## How do I create a plugin for my editor?
+## Creating a Plugin for your Editor
 
 The first step when creating a plugin is to figure out *how* to create plugins for your editor.  Search the [mailing list][] and [issue tracker][] for your editor to see if someone else has researched it before.  Also try searching the Internet for **<your editor> plugin how to**.
+
+### Note which Core Library to Use
 
 The most important detail to note first is what programming language your plugin will need to be written in.  This will help you determine which EditorConfig core library you should use for writing your plugin.  For example Eclipse plugins are written in Java so the Java core library should be used for Eclipse plugins.  The current EditorConfig core libraries are the [Python core][], the [Java core][], and the [C core][].
 
 After you determine which core library you should use, consult the plugin API to determine which EditorConfig properties your editor will be able to support.  Is there an option for setting indentation to tabs or spaces?  Is there an option for setting indentation size?  What about for setting specifically the width of a tab character?
 
+### Start a Discussion
+
 If you've done some research on your text editor and want to share what you've found or announce your efforts to create a plugin, start a discussion on the [mailing list][].  If you are having trouble getting started, feel free to ask for help on the mailing list as well.
 
-### What if there is no API or the API can't support EditorConfig properties?
+### Inadequate API Support for EditorConfig properties
 
-You might consider contacting the developers of your editor.  Sometimes even text editors with incomplete (or non-existant) APIs can still be extended to support EditorConfig.  Many text editor and IDE developers are quite responsive to plugin developers looking to extend their product (it helps to ask nicely also).
+If your editor's plugin API does not appear to support EditorConfig properties, you might consider contacting the developers of your editor.  Sometimes even text editors with incomplete (or non-existant) APIs can still be extended to support EditorConfig.  Many text editor and IDE developers are quite responsive to plugin developers looking to extend their product (it helps to ask nicely also).
 
-### How do I handle unsupported EditorConfig properties?
+### Handling Unsupported EditorConfig properties
 
 If your plugin won't be able to fully support some EditorConfig properties, just note the level of support in the README file.  Some support is better than none at all.
 
 The Gedit plugin only partially supports the `indent_size` and `tab_width` properties.  This is because there is no option in the Gedit plugin API to set the size of a tab character (tabs are assumed to always be the same as the indentation size).  This is noted in the [README file for the Gedit plugin][Gedit supported properties].
-
 
 ## Using the EditorConfig core libraries
 
