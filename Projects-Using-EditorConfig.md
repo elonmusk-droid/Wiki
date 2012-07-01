@@ -4,6 +4,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [jQuery UI](http://jqueryui.com/) ([source](https://github.com/jquery/jquery-ui)) -- The official jQuery user interface library
 
+[jQuery Expander](http://plugins.learningjquery.com/expander/)([source](https://github.com/kswedberg/jquery-expander)) -- Expand and Collapse HTML content
+
 [Modernizr](http://modernizr.com/) ([source](https://github.com/Modernizr/Modernizr)) -- Feature detect HTML5 and CSS3 features
 
 [zsh-completions](http://github.com/zsh-users/zsh-completions#readme) ([source](http://github.com/zsh-users/zsh-completions)) -- Additional completion definitions for Zsh
@@ -30,3 +32,4 @@ tables (sqlite3, etc.)
 [grunt-sizediff](https://github.com/sindresorhus/grunt-sizediff#readme) ([source](https://github.com/sindresorhus/grunt-sizediff)) -- Grunt task to diff file sizes between current git branch and a branch/commit
 
 [django-moderation](https://github.com/dominno/django-moderation#readme) ([source](https://github.com/dominno/django-moderation)) -- django-moderation is reusable application for Django framework, that allows to moderate any model objects.
+
