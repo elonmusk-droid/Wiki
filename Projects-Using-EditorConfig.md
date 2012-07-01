@@ -22,3 +22,5 @@ tables (sqlite3, etc.)
 [Zikula](http://zikula.org/) ([source](https://github.com/zikula/core)) -- Zikula Core
 
 [Symfony2](http://symfony.com/) ([source](https://github.com/symfony/symfony)) -- Symfony2
+
+[grunt-recess](https://github.com/sindresorhus/grunt-recess#readme) ([source](https://github.com/sindresorhus/grunt-recess)) -- Grunt task to lint and minify CSS or LESS
