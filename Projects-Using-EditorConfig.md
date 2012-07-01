@@ -23,4 +23,6 @@ tables (sqlite3, etc.)
 
 [Symfony2](http://symfony.com/) ([source](https://github.com/symfony/symfony)) -- Symfony2
 
+[grunt-shell](https://github.com/sindresorhus/grunt-shell#readme) ([source](https://github.com/sindresorhus/grunt-shell)) -- Grunt task to run shell commands
+
 [grunt-recess](https://github.com/sindresorhus/grunt-recess#readme) ([source](https://github.com/sindresorhus/grunt-recess)) -- Grunt task to lint and minify CSS or LESS
