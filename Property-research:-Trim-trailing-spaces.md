@@ -1,4 +1,4 @@
-Issue #60.
+Issue [#60](https://github.com/editorconfig/editorconfig/issues/60).
 
 Option for trimming trailing whitespace.
 
