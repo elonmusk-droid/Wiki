@@ -4,7 +4,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [jQuery UI](http://jqueryui.com/) ([source](https://github.com/jquery/jquery-ui)) -- The official jQuery user interface library
 
-[jQuery Expander](http://plugins.learningjquery.com/expander/)([source](https://github.com/kswedberg/jquery-expander)) -- Expand and Collapse HTML content
+[jQuery Expander](http://plugins.learningjquery.com/expander/) ([source](https://github.com/kswedberg/jquery-expander)) -- Expand and Collapse HTML content
 
 [Modernizr](http://modernizr.com/) ([source](https://github.com/Modernizr/Modernizr)) -- Feature detect HTML5 and CSS3 features
 
