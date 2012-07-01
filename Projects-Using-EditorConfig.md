@@ -28,3 +28,5 @@ tables (sqlite3, etc.)
 [grunt-recess](https://github.com/sindresorhus/grunt-recess#readme) ([source](https://github.com/sindresorhus/grunt-recess)) -- Grunt task to lint and minify CSS or LESS
 
 [grunt-sizediff](https://github.com/sindresorhus/grunt-sizediff#readme) ([source](https://github.com/sindresorhus/grunt-sizediff)) -- Grunt task to diff file sizes between current git branch and a branch/commit
+
+[django-moderation](https://github.com/dominno/django-moderation#readme) ([source](https://github.com/dominno/django-moderation)) -- django-moderation is reusable application for Django framework, that allows to moderate any model objects.
