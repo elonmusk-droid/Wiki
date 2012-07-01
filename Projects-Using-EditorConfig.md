@@ -26,3 +26,5 @@ tables (sqlite3, etc.)
 [grunt-shell](https://github.com/sindresorhus/grunt-shell#readme) ([source](https://github.com/sindresorhus/grunt-shell)) -- Grunt task to run shell commands
 
 [grunt-recess](https://github.com/sindresorhus/grunt-recess#readme) ([source](https://github.com/sindresorhus/grunt-recess)) -- Grunt task to lint and minify CSS or LESS
+
+[grunt-sizediff](https://github.com/sindresorhus/grunt-sizediff#readme) ([source](https://github.com/sindresorhus/grunt-sizediff)) -- Grunt task to diff file sizes between current git branch and a branch/commit
