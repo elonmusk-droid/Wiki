@@ -8,6 +8,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Modernizr](http://modernizr.com/) ([source](https://github.com/Modernizr/Modernizr)) -- Feature detect HTML5 and CSS3 features
 
+[TodoMVC](http://todomvc.com) ([source](https://github.com/addyosmani/todomvc)) -- A common learning application for popular JavaScript MV* frameworks
+
 [zsh-completions](http://github.com/zsh-users/zsh-completions#readme) ([source](http://github.com/zsh-users/zsh-completions)) -- Additional completion definitions for Zsh
 
 [tags2db](http://xuhdev.github.com/tags2db) ([source](https://github.com/xuhdev/tags2db)) -- Converts tags files (ctags, gccxml, etc.) to database
@@ -25,6 +27,8 @@ tables (sqlite3, etc.)
 
 [Symfony2](http://symfony.com/) ([source](https://github.com/symfony/symfony)) -- Symfony2
 
+[screenfull.js](https://github.com/sindresorhus/screenfull.js#readme) ([source](https://github.com/sindresorhus/screenfull.js)) -- Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
+
 [grunt-shell](https://github.com/sindresorhus/grunt-shell#readme) ([source](https://github.com/sindresorhus/grunt-shell)) -- Grunt task to run shell commands
 
 [grunt-recess](https://github.com/sindresorhus/grunt-recess#readme) ([source](https://github.com/sindresorhus/grunt-recess)) -- Grunt task to lint and minify CSS or LESS
@@ -33,4 +37,6 @@ tables (sqlite3, etc.)
 
 [django-moderation](https://github.com/dominno/django-moderation#readme) ([source](https://github.com/dominno/django-moderation)) -- django-moderation is reusable application for Django framework, that allows to moderate any model objects.
 
-[CanJS](http://canjs.us/) ([source](https://github.com/jupiterjs/canjs)) -- CanJS is a MIT-licensed, client-side, JavaScript framework that makes building rich web applications easy. 
+[CanJS](http://canjs.us/) ([source](https://github.com/jupiterjs/canjs)) -- CanJS is a MIT-licensed, client-side, JavaScript framework that makes building rich web applications easy.
+
+[basket.js](http://addyosmani.github.com/basket.js/) ([source](https://github.com/addyosmani/basket.js)) -- A proof-of-concept script loader for caching/loading scripts with localStorage
