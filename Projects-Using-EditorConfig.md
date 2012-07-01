@@ -33,3 +33,4 @@ tables (sqlite3, etc.)
 
 [django-moderation](https://github.com/dominno/django-moderation#readme) ([source](https://github.com/dominno/django-moderation)) -- django-moderation is reusable application for Django framework, that allows to moderate any model objects.
 
+[CanJS](http://canjs.us/) ([source](https://github.com/jupiterjs/canjs)) -- CanJS is a MIT-licensed, client-side, JavaScript framework that makes building rich web applications easy. 
