@@ -83,3 +83,10 @@ Default behavior:
 Default behavior:
 - Shows the last newline at the end of the file
 - adds a newline if "Ensure newline at file end" is checked
+
+
+### Sublime Text 2
+
+Default behavior:
+- Shows the last newline at the end of the file
+- Automatically adds a newline when saving files
