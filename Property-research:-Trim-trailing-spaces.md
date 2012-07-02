@@ -13,7 +13,7 @@ Option for trimming trailing whitespace.
 
 ### Sublime Text 2
 
-- Does not show trailing whitespace.
+- By default does not show trailing whitespace. Can show all whitespace by setting `draw_white_space` to true.
 - Trims trailing whitespace on save with the option `trim_trailing_white_space_on_save` set to true.
 
 ### Vim
