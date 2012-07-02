@@ -40,3 +40,5 @@ tables (sqlite3, etc.)
 [CanJS](http://canjs.us/) ([source](https://github.com/jupiterjs/canjs)) -- CanJS is a MIT-licensed, client-side, JavaScript framework that makes building rich web applications easy.
 
 [basket.js](http://addyosmani.github.com/basket.js/) ([source](https://github.com/addyosmani/basket.js)) -- A proof-of-concept script loader for caching/loading scripts with localStorage
+
+[GitHub Notifier](https://github.com/sindresorhus/GitHub-Notifier#readme) ([source](https://github.com/sindresorhus/GitHub-Notifier)) -- Browser extension that displays your GitHub notifications unread count.
