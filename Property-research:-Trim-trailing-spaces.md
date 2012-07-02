@@ -1,11 +1,13 @@
 Issue [#60](https://github.com/editorconfig/editorconfig/issues/60).
 
-Option for trimming trailing whitespace.
+## Option for trimming trailing whitespace.
 
+A `trim_trailing_whitespace` option (or similarly named option) will control whether whitespace characters preceding a newline will be removed by text editors automatically (either on file save or while editing the file).
 
 ## Naming ideas
 
 - trim_trailing_whitespace
+- trim_trailing_spaces
 - allow_trailing_space
 
 
