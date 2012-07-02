@@ -18,5 +18,5 @@ Option for trimming trailing whitespace.
 
 ### Vim
 
-- By default does not show trailing whitespace. To show it, turn on ['list'](http://vimdoc.sourceforge.net/htmldoc/options.html#%27list%27) option.
+- By default does not show trailing whitespace. To show it, turn on ['list'](http://vimdoc.sourceforge.net/htmldoc/options.html#%27list%27) option (`:set list`).
 - Trimming trailing whitespace automatically or manually is possible. See [this tip](http://vim.wikia.com/wiki/Remove_unwanted_spaces).
