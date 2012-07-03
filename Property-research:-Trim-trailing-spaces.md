@@ -22,3 +22,8 @@ A `trim_trailing_whitespace` option (or similarly named option) will control whe
 
 - By default does not show trailing whitespace. To show it, turn on ['list'](http://vimdoc.sourceforge.net/htmldoc/options.html#%27list%27) option (`:set list`).
 - Trimming trailing whitespace automatically or manually is possible. See [this tip](http://vim.wikia.com/wiki/Remove_unwanted_spaces).
+
+### Geany
+
+- Does not show whitespace by default. Visible whitespace can be toggled using the View > Editor > Show White Space option.
+- Trims trailing whitespace on file save when the "Strip trailing spaces and tabs" option is enabled
