@@ -27,3 +27,8 @@ A `trim_trailing_whitespace` option (or similarly named option) will control whe
 
 - Does not show whitespace by default. Visible whitespace can be toggled using the View > Editor > Show White Space option.
 - Trims trailing whitespace on file save when the "Strip trailing spaces and tabs" option is enabled
+
+### Notepad++
+
+- Does not show trailing white spaces by default. Can be turned on by `View -> Show Symbol -> Show End of Line`.
+- Can manually trim trailing white chars by `Edit->Blank Operations->Trim Trailing Space`.
