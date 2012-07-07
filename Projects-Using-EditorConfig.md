@@ -35,10 +35,12 @@ tables (sqlite3, etc.)
 
 [grunt-sizediff](https://github.com/sindresorhus/grunt-sizediff#readme) ([source](https://github.com/sindresorhus/grunt-sizediff)) -- Grunt task to diff file sizes between current git branch and a branch/commit
 
-[django-moderation](https://github.com/dominno/django-moderation#readme) ([source](https://github.com/dominno/django-moderation)) -- django-moderation is reusable application for Django framework, that allows to moderate any model objects.
+[django-moderation](https://github.com/dominno/django-moderation#readme) ([source](https://github.com/dominno/django-moderation)) -- django-moderation is reusable application for Django framework, that allows to moderate any model objects
 
-[CanJS](http://canjs.us/) ([source](https://github.com/jupiterjs/canjs)) -- CanJS is a MIT-licensed, client-side, JavaScript framework that makes building rich web applications easy.
+[CanJS](http://canjs.us/) ([source](https://github.com/jupiterjs/canjs)) -- CanJS is a MIT-licensed, client-side, JavaScript framework that makes building rich web applications easy
 
 [basket.js](http://addyosmani.github.com/basket.js/) ([source](https://github.com/addyosmani/basket.js)) -- A proof-of-concept script loader for caching/loading scripts with localStorage
 
-[GitHub Notifier](https://github.com/sindresorhus/GitHub-Notifier#readme) ([source](https://github.com/sindresorhus/GitHub-Notifier)) -- Browser extension that displays your GitHub notifications unread count.
+[GitHub Notifier](https://github.com/sindresorhus/GitHub-Notifier#readme) ([source](https://github.com/sindresorhus/GitHub-Notifier)) -- Browser extension that displays your GitHub notifications unread count
+
+[guzzle-azure](https://github.com/gimler/guzzle-azure#readme) ([source](https://github.com/gimler/guzzle-azure)) -- Azure plugin for the guzzle php http client
