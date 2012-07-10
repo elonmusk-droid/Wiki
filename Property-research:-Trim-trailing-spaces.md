@@ -32,3 +32,8 @@ A `trim_trailing_whitespace` option (or similarly named option) will control whe
 
 - Does not show trailing white spaces by default. Can be turned on by `View -> Show Symbol -> Show End of Line`.
 - Can manually trim trailing white chars by `Edit->Blank Operations->Trim Trailing Space`.
+
+### jEdit
+
+- Does not show trailing white spaces by default. Viewing trailing white spaces can be turned on. Click on `Utilities` -> `Global Options...` -> `jEdit` -> `Text Area`, then check the **End of line markers** checkbox.
+- 
