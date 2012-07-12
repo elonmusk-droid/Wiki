@@ -36,4 +36,4 @@ A `trim_trailing_whitespace` option (or similarly named option) will control whe
 ### jEdit
 
 - Does not show trailing white spaces by default. Viewing trailing white spaces can be turned on. Click on `Utilities` -> `Global Options...` -> `jEdit` -> `Text Area`, then check the **End of line markers** checkbox.
-- 
+- Can manually trim trailing white chars by `Edit` -> `Indent` -> `Remove Trailing Whitespace`.
