@@ -90,4 +90,6 @@ Default behavior:
 
 Default behavior:
 - Shows the last newline at the end of the file
-- Automatically adds a newline when saving files
+- Does not add a newline when saving files by default
+
+This behavior can be changed by setting the `ensure_newline_at_eof_on_save` option to `true`.
