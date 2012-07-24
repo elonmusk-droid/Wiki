@@ -18,7 +18,7 @@ This document details current EditorConfig properties and ideas for future prope
 		<tr><td>indent_style</td><td>"tab" or "space"</td><td>Indentation Style</td></tr>
 		<tr><td>indent_size</td><td>"tab" or an integer</td><td>Indentation Size (in single-spaced characters)</td></tr>
 		<tr><td>tab_width</td><td>integer (defaults "indent_size" when it is a number)</td><td>Width of a single tabstop character</td></tr>
-		<tr><td>end_of_line</td><td>"LF", "CR", or "CRLF"</td><td>Line ending file format (Unix, Mac, DOS)</td></tr>
+		<tr><td>end_of_line</td><td>"lf", "cr", or "crlf"</td><td>Line ending file format (Unix, Mac, DOS)</td></tr>
 	</tbody>
 </table>
 
@@ -32,7 +32,7 @@ You can vote for what properties should be included in the next release [here](h
 	</thead>
 	<tbody>
 		<tr><td>byte_order_mark</td><td>"true" or "false"</td><td>Denotes whether a byte order mark should be added to file</td></tr>
-		<tr><td>charset</td><td>"latin1", "UTF-8", "UTF-16BE", "UTF-16LE"</td><td>File character encoding</td></tr>
+		<tr><td>charset</td><td>"latin1", "utf-8", "utf-16be", "utf-16le"</td><td>File character encoding</td></tr>
 		<tr><td>trim_trailing_whitespace</td><td>"true" or "false"</td><td>Denotes whether whitespace is allowed at the end of lines</td></tr>
 		<tr><td>indent_blank_lines</td><td>"true" or "false"</td><td>Denotes whether blank lines should contain indented whitespace</td></tr>
 		<tr><td>insert_final_newline</td><td>"true" or "false"</td><td>Denotes whether file should end with a newline</td></tr>
