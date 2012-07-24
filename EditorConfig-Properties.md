@@ -33,9 +33,9 @@ You can vote for what properties should be included in the next release [here](h
 	<tbody>
 		<tr><td>byte_order_mark</td><td>"true" or "false"</td><td>Denotes whether a byte order mark should be added to file</td></tr>
 		<tr><td>charset</td><td>"latin1", "UTF-8", "UTF-16BE", "UTF-16LE"</td><td>File character encoding</td></tr>
-		<tr><td>allow_trailing_space</td><td>"true" or "false"</td><td>Denotes whether whitespace is allowed at the end of lines</td></tr>
+		<tr><td>trim_trailing_whitespace</td><td>"true" or "false"</td><td>Denotes whether whitespace is allowed at the end of lines</td></tr>
 		<tr><td>indent_blank_lines</td><td>"true" or "false"</td><td>Denotes whether blank lines should contain indented whitespace</td></tr>
-		<tr><td>newline_at_end_of_file</td><td>"true" or "false"</td><td>Denotes whether file should end with a newline</td></tr>
+		<tr><td>insert_final_newline</td><td>"true" or "false"</td><td>Denotes whether file should end with a newline</td></tr>
 	</tbody>
 </table>
 
