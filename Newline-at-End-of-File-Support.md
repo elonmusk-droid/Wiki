@@ -27,10 +27,11 @@ Default behavior:
 - doesn't show the last newline at the end of the file
 - automatically adds a newline when saving files
 
-Automatic newline insertion can be disabled by enabling [binary][] file editing and disabling the [endofline][] option.  We may be able to use [this method](http://stackoverflow.com/a/4152785/98187) of disabling newline insertion on write for the Vim plugin.
+Automatic newline insertion can be disabled by enabling [binary][] file editing and disabling the [endofline][] option.  We may be able to use [this method](http://stackoverflow.com/a/4152785/98187) of disabling newline insertion on write for the Vim plugin.  One notable quirk with this method is that setting `binary` forces LF line endings so this method cannot be used for files with CRLF line endings which would probably be the most common case for this option.  [This vim tip on preserving missing newlines at end of file][tip 1369] may help resolve this issue.
 
 [binary]: http://vimdoc.sourceforge.net/htmldoc/options.html#'binary'
 [endofline]: http://vimdoc.sourceforge.net/htmldoc/options.html#'endofline'
+[tip 1369]: http://vim.wikia.com/wiki/Preserve_missing_end-of-line_at_end_of_text_files
 
 
 ### Emacs
