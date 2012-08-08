@@ -31,15 +31,15 @@ You can vote for what properties should be included in the next release [here](h
 		<tr><th>Property</th><th>Possible Values</th><th>Purpose</th></tr>
 	</thead>
 	<tbody>
-		<tr><td>byte_order_mark</td><td>"true" or "false"</td><td>Denotes whether a byte order mark should be added to file</td></tr>
 		<tr><td>charset</td><td>"latin1", "utf-8", "utf-16be", "utf-16le"</td><td>File character encoding</td></tr>
 		<tr><td>trim_trailing_whitespace</td><td>"true" or "false"</td><td>Denotes whether whitespace is allowed at the end of lines</td></tr>
-		<tr><td>indent_blank_lines</td><td>"true" or "false"</td><td>Denotes whether blank lines should contain indented whitespace</td></tr>
 		<tr><td>insert_final_newline</td><td>"true" or "false"</td><td>Denotes whether file should end with a newline</td></tr>
 	</tbody>
 </table>
 
-## Ideas for Future Domain Specific Properties
+## Ideas for Domain-Specific Properties
+
+The following properties are not intended to be implemented by EditorConfig.  This is simply a brainstorm of domain-specific properties that could be supported by some tools that rely on EditorConfig files.
 
 <table>
 	<thead>
