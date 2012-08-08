@@ -22,9 +22,7 @@ This document details current EditorConfig properties and ideas for future prope
 	</tbody>
 </table>
 
-## Ideas for Future Universal Properties
-
-You can vote for what properties should be included in the next release [here](https://docs.google.com/spreadsheet/viewform?formkey=dFZId1FuR1RsWlRUV2dlc2lTMDBxRWc6MQ&ifq).
+## Future Universal Properties in the Upcoming v0.10.0
 
 <table>
 	<thead>
