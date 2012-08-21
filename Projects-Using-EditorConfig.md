@@ -44,3 +44,5 @@ tables (sqlite3, etc.)
 [GitHub Notifier](https://github.com/sindresorhus/GitHub-Notifier#readme) ([source](https://github.com/sindresorhus/GitHub-Notifier)) -- Browser extension that displays your GitHub notifications unread count
 
 [guzzle-azure](https://github.com/gimler/guzzle-azure#readme) ([source](https://github.com/gimler/guzzle-azure)) -- Azure plugin for the guzzle php http client
+
+[Chocolatey](http://chocolatey.org) ([source](https://github.com/chocolatey/chocolatey)) -- Chocolatey NuGet - Like apt-get, but for windows.
