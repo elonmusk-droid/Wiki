@@ -45,4 +45,6 @@ tables (sqlite3, etc.)
 
 [guzzle-azure](https://github.com/gimler/guzzle-azure#readme) ([source](https://github.com/gimler/guzzle-azure)) -- Azure plugin for the guzzle php http client
 
-[Chocolatey](http://chocolatey.org) ([source](https://github.com/chocolatey/chocolatey)) -- Chocolatey NuGet - Like apt-get, but for windows.
+[Chocolatey](http://chocolatey.org) ([source](https://github.com/chocolatey/chocolatey)) -- Chocolatey NuGet - Like apt-get, but for Windows.
+
+[Clansuite](http://clansuite.com/) ([source](https://github.com/Clansuite/Clansuite)) -- just another CMS/CMF. PHP 5.3+, Doctrine 2, Smarty 3, Ajax. - Easy, comfortable, fast, flexible.
