@@ -43,6 +43,9 @@ When a particular valid EditorConfig property cannot be properly handled appropr
 
 When an error occurs while retrieving EditorConfig properties it is probably best **not** to notify the user in an intrusive way.  An error log may be useful for debugging if the user finds they need to hunt down an improper `.editorconfig` file.  A setting that allows the user to be alerted by debugging or error messages could also be useful.
 
+## Testing your plugin
+
+The [EditorConfig Plugin Tests][] repository contains a set of tests for confirming that your plugin behaves correctly when handling various EditorConfig properties.  This set of tests is not comprehensive, but it's a good starting point.
 
 ## Releasing your plugin
 
@@ -76,3 +79,4 @@ Most of our README files use a similar format.  You may copy this format or use 
 [Simplified BSD]: http://www.opensource.org/licenses/BSD-2-Clause
 [GPL]: http://www.opensource.org/licenses/gpl-license
 [MIT License]: http://www.opensource.org/licenses/MIT
+[editorconfig plugin tests]: https://github.com/editorconfig/editorconfig-plugin-tests
