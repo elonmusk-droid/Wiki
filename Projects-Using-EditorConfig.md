@@ -48,5 +48,3 @@ tables (sqlite3, etc.)
 [Chocolatey](http://chocolatey.org) ([source](https://github.com/chocolatey/chocolatey)) -- Chocolatey NuGet - Like apt-get, but for Windows.
 
 [Clansuite](http://clansuite.com/) ([source](https://github.com/Clansuite/Clansuite)) -- just another CMS/CMF. PHP 5.3+, Doctrine 2, Smarty 3, Ajax. - Easy, comfortable, fast, flexible.
-
-[jedit](http://jedit.org) ([source](http://plugins.jedit.org/plugins/?EditorConfig)) -- jEdit plugin
