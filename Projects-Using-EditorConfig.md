@@ -50,3 +50,5 @@ tables (sqlite3, etc.)
 [Chocolatey](http://chocolatey.org) ([source](https://github.com/chocolatey/chocolatey)) -- Chocolatey NuGet - Like apt-get, but for Windows.
 
 [Clansuite](http://clansuite.com/) ([source](https://github.com/Clansuite/Clansuite)) -- just another CMS/CMF. PHP 5.3+, Doctrine 2, Smarty 3, Ajax. - Easy, comfortable, fast, flexible.
+
+[Yeoman](http://yeoman.io/) ([source](https://github.com/yeoman/yeoman)) -- a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
