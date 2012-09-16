@@ -1,5 +1,7 @@
 An incomplete list of projects that are using EditorConfig:
 
+[Ruby](http://www.ruby-lang.org/) ([source](https://bugs.ruby-lang.org/projects/ruby-trunk/repository)) -- Ruby Programming Language
+
 [jQuery](http://jquery.com/) ([source](https://github.com/jquery/jquery)) -- jQuery JavaScript Library
 
 [jQuery UI](http://jqueryui.com/) ([source](https://github.com/jquery/jquery-ui)) -- The official jQuery user interface library
