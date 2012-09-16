@@ -52,3 +52,5 @@ tables (sqlite3, etc.)
 [Clansuite](http://clansuite.com/) ([source](https://github.com/Clansuite/Clansuite)) -- just another CMS/CMF. PHP 5.3+, Doctrine 2, Smarty 3, Ajax. - Easy, comfortable, fast, flexible.
 
 [Yeoman](http://yeoman.io/) ([source](https://github.com/yeoman/yeoman)) -- a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
+
+[dabblet-chrome-app](https://chrome.google.com/webstore/detail/ehlimmpmogmglpfidpkbocdblhlnofke) ([source](https://github.com/drublic/dabblet-chrome-app)) -- A Chrome App for Dabblet
