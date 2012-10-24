@@ -9,7 +9,7 @@ The first step when creating a plugin is to figure out *how* to create plugins f
 
 ### Note which Core Library to Use
 
-The most important detail to note first is what programming language your plugin will need to be written in.  This will help you determine which EditorConfig core library you should use for writing your plugin.  For example Eclipse plugins are written in Java so the Java core library should be used for Eclipse plugins.  The current EditorConfig core libraries are the [Python core][], the [Java core][], and the [C core][].
+The most important detail to note first is what programming language your plugin will need to be written in.  This will help you determine which EditorConfig core library you should use for writing your plugin.  For example Eclipse plugins are written in Java so the Java core library should be used for developing the Eclipse plugin. The current EditorConfig core libraries are the [Python core][], the [Java core][], and the [C core][].
 
 After you determine which core library you should use, consult the plugin API to determine which EditorConfig properties your editor will be able to support.  Is there an option for setting indentation to tabs or spaces?  Is there an option for setting indentation size?  What about for setting specifically the width of a tab character?
 
