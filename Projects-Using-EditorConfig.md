@@ -10,6 +10,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Modernizr](http://modernizr.com/) ([source](https://github.com/Modernizr/Modernizr)) -- Feature detect HTML5 and CSS3 features
 
+[Phabricator](http://phabricator.org/) ([source](https://github.com/facebook/phabricator/), [Arcanist](https://github.com/facebook/arcanist/), [libphutil](https://github.com/facebook/libphutil/)) -- Open source collection of web applications which makes it easier to scale software companies (founded at Facebook).
+
 [TodoMVC](http://todomvc.com) ([source](https://github.com/addyosmani/todomvc)) -- A common learning application for popular JavaScript MV* frameworks
 
 [zsh-completions](http://github.com/zsh-users/zsh-completions#readme) ([source](http://github.com/zsh-users/zsh-completions)) -- Additional completion definitions for Zsh
