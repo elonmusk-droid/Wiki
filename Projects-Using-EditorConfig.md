@@ -56,3 +56,5 @@ tables (sqlite3, etc.)
 [Yeoman](http://yeoman.io/) ([source](https://github.com/yeoman/yeoman)) -- a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
 
 [dabblet-chrome-app](https://chrome.google.com/webstore/detail/ehlimmpmogmglpfidpkbocdblhlnofke) ([source](https://github.com/drublic/dabblet-chrome-app)) -- A Chrome App for Dabblet
+
+[Video.js](http://videojs.com) ([source](https://github.com/zencoder/video-js)) -- Universal video embed. Supports HTML5 and Flash video, with a common JavaScript API and CSS skin for both.
