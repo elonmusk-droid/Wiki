@@ -58,3 +58,5 @@ tables (sqlite3, etc.)
 [dabblet-chrome-app](https://chrome.google.com/webstore/detail/ehlimmpmogmglpfidpkbocdblhlnofke) ([source](https://github.com/drublic/dabblet-chrome-app)) -- A Chrome App for Dabblet
 
 [Video.js](http://videojs.com) ([source](https://github.com/zencoder/video-js)) -- Universal video embed. Supports HTML5 and Flash video, with a common JavaScript API and CSS skin for both.
+
+[CakePHP](http://cakephp.org) ([source](https://github.com/cakephp/cakephp)) -- The Rapid Development Framework for PHP
