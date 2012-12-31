@@ -19,16 +19,6 @@ This document details current EditorConfig properties and ideas for future prope
 		<tr><td>indent_size</td><td>"tab" or an integer</td><td>Indentation Size (in single-spaced characters)</td></tr>
 		<tr><td>tab_width</td><td>integer (defaults "indent_size" when it is a number)</td><td>Width of a single tabstop character</td></tr>
 		<tr><td>end_of_line</td><td>"lf", "cr", or "crlf"</td><td>Line ending file format (Unix, Mac, DOS)</td></tr>
-	</tbody>
-</table>
-
-## Future Universal Properties in the Upcoming v0.10.0
-
-<table>
-	<thead>
-		<tr><th>Property</th><th>Possible Values</th><th>Purpose</th></tr>
-	</thead>
-	<tbody>
 		<tr><td>charset</td><td>"latin1", "utf-8", "utf-16be", "utf-16le"</td><td>File character encoding</td></tr>
 		<tr><td>trim_trailing_whitespace</td><td>"true" or "false"</td><td>Denotes whether whitespace is allowed at the end of lines</td></tr>
 		<tr><td>insert_final_newline</td><td>"true" or "false"</td><td>Denotes whether file should end with a newline</td></tr>
