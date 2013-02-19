@@ -64,3 +64,5 @@ tables (sqlite3, etc.)
 [Drupal](http://drupal.org) ([source](http://drupalcode.org/project/drupal.git/tree/refs/heads/8.x)) -- Drupal is an open source content management platform powering millions of websites and applications.
 
 [Roots Theme](http://www.rootstheme.com/) ([source](https://github.com/retlehs/roots)) -- Roots is a starting WordPress theme made for developers based on HTML5 Boilerplate & Bootstrap
+
+[Kimbo](http://kimbojs.com/) ([source](https://github.com/dciccale/kimbojs)) -- Kimbo.js JavaScript Library
