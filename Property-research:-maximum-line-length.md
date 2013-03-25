@@ -8,6 +8,7 @@ A `max_line_length` option (or similarly named option) will force hard line wrap
 
 - text_width
 - line_width
+- wrap_width
 - max_line_length
 
 ## Concerns
