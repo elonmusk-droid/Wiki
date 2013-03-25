@@ -4,6 +4,10 @@ Issue [#89](https://github.com/editorconfig/editorconfig/issues/89).
 
 A `max_line_length` option (or similarly named option) will force hard line wrapping after the amount of characters specified.
 
+## Behavior
+
+When the typing, the editor automatically wraps the current word to a new line if it reaches the given limit.
+
 ## Naming ideas
 
 - text_width
