@@ -14,6 +14,7 @@ When the typing, the editor automatically wraps the current word to a new line i
 - line_width
 - wrap_width
 - max_line_length
+- right_margin
 
 ## Concerns
 
