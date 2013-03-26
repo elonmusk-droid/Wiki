@@ -60,7 +60,7 @@ TODO
 
 ### jEdit
 
-TODO
+Set `maxLineLen` to the line max width, and `wrap` to **hard** for real line break. See these buffer local properties [here](http://www.jedit.org/users-guide/buffer-local.html).
 
 ### Code::Blocks
 
