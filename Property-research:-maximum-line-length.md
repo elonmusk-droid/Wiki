@@ -42,6 +42,16 @@ When 'formatexpr' is set it will be used to break the line.
 NOTE: This option is set to 0 when 'compatible' is set.
 ```
 
+The setting `colorcolumn` just displays a vertical line but doesn't enforce the width.
+
+```
+'colorcolumn' is a comma separated list of screen columns that are
+highlighted with ColorColumn hl-ColorColumn.  Useful to align
+text.  Will make screen redrawing slower.
+The screen column can be an absolute number, or a number preceded with
+'+' or '-', which is added to or subtracted from 'textwidth'.
+```
+
 ### Emacs
 
 TODO
