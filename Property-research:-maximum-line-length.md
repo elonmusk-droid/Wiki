@@ -56,7 +56,7 @@ Not possible. Can be manually done by TextFX plugin to rewrap selected text. ( *
 
 ### Gedit
 
-TODO
+Has a "Display right margin at column:" preference to display what width we want the text to be. It doesn't support a mode to enforce that width though. Maybe trough plugins.
 
 ### jEdit
 
