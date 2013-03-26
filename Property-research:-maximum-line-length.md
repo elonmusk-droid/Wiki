@@ -80,3 +80,5 @@ Set `maxLineLen` to the line max width, and `wrap` to **hard** for real line bre
 ### Code::Blocks
 
 Not possible.
+
+Settings, Editor, Margins and caret, right margin hint: visible line & hint column
