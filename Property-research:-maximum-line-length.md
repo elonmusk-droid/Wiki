@@ -61,7 +61,9 @@ TODO
 
 ### Geany
 
-TODO
+* Document, Line Breaking: enables line breaking at boundary.
+* Edit, Preferences, Editor, Features, Line breaking column: sets where the boundary is
+* Edit, Preferences, Editor, Display, Column: sets at what column a vertical line indicator should be
 
 ### Notepad++
 
