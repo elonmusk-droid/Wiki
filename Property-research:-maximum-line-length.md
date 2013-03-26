@@ -27,7 +27,9 @@ When the typing, the editor automatically wraps the current word to a new line i
 
 ### Sublime Text 2
 
-The setting is `wrap_width`
+The setting is `wrap_width`.
+
+The `rulers` setting allows you to provide an array of column numbers at which a vertical ruler will be displayed.
 
 ### Vim
 
