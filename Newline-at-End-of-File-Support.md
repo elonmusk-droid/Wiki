@@ -1,3 +1,5 @@
+This property has already been added to the EditorConfig specification as `insert_final_newline`. This wiki page is only for achieve purpose.
+--------------------------------------------------------
 # Editor Support for Newline Insertion at End of File
 
 ## Option for Inserting Newlines at End of File
