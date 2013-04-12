@@ -69,4 +69,4 @@ tables (sqlite3, etc.)
 
 [Typeplate](http://typeplate.com/) ([source](https://github.com/typeplate/typeplate.github.com/blob/master/.editorconfig)) -- Typeplate "A Typographic Starter Kit"
 
-[A11Y Project](http://a11yproject/) ([source](https://github.com/a11yproject/a11yproject.com/blob/gh-pages/.editorconfig)) -- A11Y Project : A community-driven effort to make web accessibility easier.
+[A11Y Project](http://a11yproject.com) ([source](https://github.com/a11yproject/a11yproject.com/blob/gh-pages/.editorconfig)) -- A11Y Project : A community-driven effort to make web accessibility easier.
