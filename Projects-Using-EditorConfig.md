@@ -66,3 +66,5 @@ tables (sqlite3, etc.)
 [Roots Theme](http://www.rootstheme.com/) ([source](https://github.com/retlehs/roots)) -- Roots is a starting WordPress theme made for developers based on HTML5 Boilerplate & Bootstrap
 
 [Kimbo](http://kimbojs.com/) ([source](https://github.com/dciccale/kimbo.js)) -- Kimbo.js JavaScript Library
+
+[Typeplate](http://typeplate.com/) ([source](https://github.com/typeplate/typeplate.github.com/blob/master/.editorconfig)) -- Typeplate "A Typographic Starter Kit"
