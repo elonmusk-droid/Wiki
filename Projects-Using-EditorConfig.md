@@ -72,3 +72,5 @@ tables (sqlite3, etc.)
 [A11Y Project](http://a11yproject.com) ([source](https://github.com/a11yproject/a11yproject.com/blob/gh-pages/.editorconfig)) -- A11Y Project : A community-driven effort to make web accessibility easier.
 
 [JabbR](http://about.jabbr.net/) ([source](https://github.com/JabbR/JabbR)) -- JabbR is a chat application built with ASP.NET using SignalR.
+
+[Code Painter](https://github.com/jedhunsaker/codepainter) -- Code Painter is a JavaScript beautifier.
