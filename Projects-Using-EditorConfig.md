@@ -74,3 +74,5 @@ tables (sqlite3, etc.)
 [JabbR](http://about.jabbr.net/) ([source](https://github.com/JabbR/JabbR)) -- JabbR is a chat application built with ASP.NET using SignalR.
 
 [Code Painter](https://github.com/jedhunsaker/codepainter) -- Code Painter is a JavaScript beautifier.
+
+[angular-leaflet-directive](https://github.com/tombatossals/angular-leaflet-directive) -- angualr directive for leaflet library.
