@@ -4,6 +4,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Ruby](http://www.ruby-lang.org/) ([source](https://bugs.ruby-lang.org/projects/ruby-trunk/repository)) -- Ruby Programming Language
 
+[Zsh](http://www.zsh.org) ([source](http://sourceforge.net/p/zsh/code/ci/master/tree/)) -- Zsh is a shell designed for interactive use, although it is also a powerful scripting language.
+
 [Drupal](http://drupal.org) ([source](http://drupalcode.org/project/drupal.git/tree/refs/heads/8.x)) -- Drupal is an open source content management platform powering millions of websites and applications.
 
 [Symfony2](http://symfony.com/) ([source](https://github.com/symfony/symfony)) -- Symfony2
