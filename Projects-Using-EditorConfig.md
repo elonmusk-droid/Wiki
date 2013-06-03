@@ -38,9 +38,25 @@ An incomplete list of projects that are using EditorConfig:
 
 [basket.js](http://addyosmani.github.com/basket.js/) ([source](https://github.com/addyosmani/basket.js)) -- A proof-of-concept script loader for caching/loading scripts with localStorage
 
-[jQuery UI](http://jqueryui.com/) ([source](https://github.com/jquery/jquery-ui)) -- The official jQuery user interface library
+[EpicEditor](http://epiceditor.com/) -- EpicEditor is an embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
+
+[chaplin](http://chaplinjs.org/) -- HTML5 application architecture using Backbone.js.
 
 [Code Painter](https://github.com/jedhunsaker/codepainter) -- Code Painter is a JavaScript beautifier.
+
+[Angular Strap](http://mgcrea.github.io/angular-strap/) -- Bootstrap directives for Angular
+
+[html2text](https://github.com/aaronsw/html2text) -- Convert HTML to Markdown-formatted text.
+
+[jQuery UI](http://jqueryui.com/) ([source](https://github.com/jquery/jquery-ui)) -- The official jQuery user interface library
+
+[jquery-powertip](https://github.com/stevenbenner/jquery-powertip) -- A jQuery plugin that creates hover tooltips.
+
+[django-model-utils](https://github.com/carljm/django-model-utils) -- Django model mixins and utilities.
+
+[JabbR](http://about.jabbr.net/) -- Collaborative chat done right
+
+[Learn Git Branching](http://pcottle.github.com/learnGitBranching/?demo) -- An interactive git visualization to challenge and educate!
 
 [jQuery Expander](http://plugins.learningjquery.com/expander/) ([source](https://github.com/kswedberg/jquery-expander)) -- Expand and Collapse HTML content
 
@@ -74,13 +90,5 @@ tables (sqlite3, etc.)
 [dabblet-chrome-app](https://chrome.google.com/webstore/detail/ehlimmpmogmglpfidpkbocdblhlnofke) ([source](https://github.com/drublic/dabblet-chrome-app)) -- A Chrome App for Dabblet
 
 [Kimbo](http://kimbojs.com/) ([source](https://github.com/dciccale/kimbo.js)) -- Kimbo.js JavaScript Library
-
-[Typeplate](http://typeplate.com/) ([source](https://github.com/typeplate/typeplate.github.com/blob/master/.editorconfig)) -- Typeplate "A Typographic Starter Kit"
-
-[A11Y Project](http://a11yproject.com) ([source](https://github.com/a11yproject/a11yproject.com/blob/gh-pages/.editorconfig)) -- A11Y Project : A community-driven effort to make web accessibility easier.
-
-[JabbR](http://about.jabbr.net/) ([source](https://github.com/JabbR/JabbR)) -- JabbR is a chat application built with ASP.NET using SignalR.
-
-[Code Painter](https://github.com/jedhunsaker/codepainter) -- Code Painter is a JavaScript beautifier.
 
 [angular-leaflet-directive](https://github.com/tombatossals/angular-leaflet-directive) -- angualr directive for leaflet library.
