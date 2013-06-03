@@ -1,16 +1,18 @@
 An incomplete list of projects that are using EditorConfig:
 
-[Ruby](http://www.ruby-lang.org/) ([source](https://bugs.ruby-lang.org/projects/ruby-trunk/repository)) -- Ruby Programming Language
-
 [jQuery](http://jquery.com/) ([source](https://github.com/jquery/jquery)) -- jQuery JavaScript Library
 
-[Modernizr](http://modernizr.com/) ([source](https://github.com/Modernizr/Modernizr)) -- Feature detect HTML5 and CSS3 features
+[Ruby](http://www.ruby-lang.org/) ([source](https://bugs.ruby-lang.org/projects/ruby-trunk/repository)) -- Ruby Programming Language
 
 [Drupal](http://drupal.org) ([source](http://drupalcode.org/project/drupal.git/tree/refs/heads/8.x)) -- Drupal is an open source content management platform powering millions of websites and applications.
 
 [Symfony2](http://symfony.com/) ([source](https://github.com/symfony/symfony)) -- Symfony2
 
 [CakePHP](http://cakephp.org) ([source](https://github.com/cakephp/cakephp)) -- The Rapid Development Framework for PHP
+
+[Octopress](https://github.com/imathis/octopress) -- Octopress is an obsessively designed framework for Jekyll blogging.
+
+[Modernizr](http://modernizr.com/) ([source](https://github.com/Modernizr/Modernizr)) -- Feature detect HTML5 and CSS3 features
 
 [Yeoman](http://yeoman.io/) ([source](https://github.com/yeoman/yeoman)) -- a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
 
