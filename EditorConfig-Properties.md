@@ -83,8 +83,21 @@ Denotes whether file should end with a newline
 _The values are case insensitive. They will be lowercased by the core library._
 
 ### possible values
+
 - "true"
 - "false"
+
+## max_line_length
+
+Forces hard line wrapping after the amount of characters specified
+
+### possible values
+
+- positive integers
+
+### supported by
+
+- Vim
 
 ## Ideas for Domain-Specific Properties
 
