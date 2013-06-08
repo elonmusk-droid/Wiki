@@ -2,28 +2,89 @@
 
 This document details current EditorConfig properties and ideas for future properties (both universal and domain-spcecific).
 
-## Universal vs. Domain-Specific
+# Universal vs. Domain-Specific
 
 **Universal properties** are those which can have a meaning for nearly every file format.
 
 **Domain-specific properties** are those which may not be meaningful for some file formats.
 
-## Current Universal Properties
+# Current Universal Properties
 
-<table>
-	<thead>
-		<tr><th>Property</th><th>Possible Values</th><th>Purpose</th></tr>
-	</thead>
-	<tbody>
-		<tr><td>indent_style</td><td>"tab" or "space"</td><td>Indentation Style</td></tr>
-		<tr><td>indent_size</td><td>"tab" or an integer</td><td>Indentation Size (in single-spaced characters)</td></tr>
-		<tr><td>tab_width</td><td>integer (defaults "indent_size" when it is a number)</td><td>Width of a single tabstop character</td></tr>
-		<tr><td>end_of_line</td><td>"lf", "cr", or "crlf"</td><td>Line ending file format (Unix, Mac, DOS)</td></tr>
-		<tr><td>charset</td><td>"latin1", "utf-8", "utf-16be", "utf-16le"</td><td>File character encoding</td></tr>
-		<tr><td>trim_trailing_whitespace</td><td>"true" or "false"</td><td>Denotes whether whitespace is allowed at the end of lines</td></tr>
-		<tr><td>insert_final_newline</td><td>"true" or "false"</td><td>Denotes whether file should end with a newline</td></tr>
-	</tbody>
-</table>
+## indent_style
+
+Indentation Style
+
+_The values are case insensitive. They will be lowercased by the core library._
+
+### Possible Values
+
+- "tab"
+- "space"
+
+## indent_size
+
+Indentation Size (in single-spaced characters)
+
+_The values are case insensitive. They will be lowercased by the core library._
+
+### Possible Values
+
+- an integer
+- "tab"
+
+## tab_width
+
+Width of a single tabstop character
+
+### possible values
+
+- a positive integer (defaults "indent_size" when "indent_size" is a number)
+
+## end_of_line
+
+Line ending file format (Unix, DOS, Mac)
+
+_The values are case insensitive. They will be lowercased by the core library._
+
+### possible values
+
+- "lf"
+- "cr"
+- "crlf"
+
+## charset
+
+File character encoding
+
+_The values are case insensitive. They will be lowercased by the core library._
+
+### possible values
+
+- "latin1"
+- "utf-8"
+- "utf-16be"
+- "utf-16le"
+
+## trim_trailing_whitespace
+
+Denotes whether whitespace is allowed at the end of lines
+
+_The values are case insensitive. They will be lowercased by the core library._
+
+### possible values
+
+- "true"
+- "false"
+
+## insert_final_newline
+
+Denotes whether file should end with a newline
+
+_The values are case insensitive. They will be lowercased by the core library._
+
+### possible values
+- "true"
+- "false"
 
 ## Ideas for Domain-Specific Properties
 
