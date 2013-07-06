@@ -124,14 +124,14 @@ The following properties are not intended to be implemented by EditorConfig.  Th
 		<tr><th>Property</th><th>Possible Values</th><th>Purpose</th><th>Domain</th></tr>
 	</thead>
 	<tbody>
-		<tr><td>quote_type</td><td>"single" or "double"</td><td>Denotes preferred quoting style for string literals (for languages that support multiple quote styles)</td><td>with multiple equivalent string literal quote types</td></tr>
+		<tr><td>quote_type</td><td>"single", "double", "auto"</td><td>Denotes preferred quoting style for string literals (for languages that support multiple quote styles)</td><td>with multiple equivalent string literal quote types</td></tr>
 		<tr><td>c_include_path</td><td>Directory paths separated by colon (<code>:</code>)</td><td>Denotes the include paths of header files for some C family languages, such as C, C++, D, Objective-C, etc. Could be used by syntax checkers and compilers inside editors.</td><td></td></tr>
 		<tr><td>java_class_path</td><td>Paths separated by colon (<code>:</code>)</td><td>Denotes the CLASSPATH used by the Java source files. Could be used by some Java syntax checkers and compilers inside editors.</td><td>Java</td></tr>
 		<tr><td>curly_bracket_next_line</td><td>"true" or "false"</td><td>Denotes whether the left part of the curly bracket should be on the next line or not for some C family languages, such as C, C++, Java, Javascript, etc.</td><td></td><tr>
-		<tr><td>spaces_around_operators</td><td>"true" or "false"</td><td>Denotes whether spaces should be present around arithmetic and boolean operators</td><td>with infix operators and optional spaces</td></tr>
+		<tr><td>spaces_around_operators</td><td>"true", "false", "hybrid"</td><td>Denotes whether spaces should be present around arithmetic and boolean operators</td><td>with infix operators and optional spaces</td></tr>
 		<tr><td>spaces_around_brackets</td><td>"none", "inside", "outside", or "both"</td><td>Denotes how spaces should be around brackets and parentheses: no space, only inside the brackets, only outside the brackets, or at the both side of brackets</td><td></td></tr>
 		<tr><td>indent_brace_style</td><td>"K&R", "Allman", "GNU", "Horstmann", etc.</td><td>Denotes the <a href="https://en.wikipedia.org/wiki/Indent_style">style for using curly braces</a> in code blocks</td><td>languages with C-style code blocks using curly braces</td></tr>
 	</tbody>
 </table>
 
-_* Some of the options above are inspired by [codepainter](https://github.com/fawek/codepainter)._
+_* Some of the options above are inspired by [codepainter](https://github.com/jedhunsaker/codepainter)._
