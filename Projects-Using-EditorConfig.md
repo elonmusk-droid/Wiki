@@ -58,8 +58,6 @@ An incomplete list of projects that are using EditorConfig:
 
 [django-model-utils](https://github.com/carljm/django-model-utils) -- Django model mixins and utilities.
 
-[JabbR](http://about.jabbr.net/) -- Collaborative chat done right
-
 [Learn Git Branching](http://pcottle.github.com/learnGitBranching/?demo) -- An interactive git visualization to challenge and educate!
 
 [jQuery Expander](http://plugins.learningjquery.com/expander/) ([source](https://github.com/kswedberg/jquery-expander)) -- Expand and Collapse HTML content
