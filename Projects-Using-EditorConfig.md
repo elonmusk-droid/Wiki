@@ -2,6 +2,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [jQuery](http://jquery.com/) ([source](https://github.com/jquery/jquery)) -- jQuery JavaScript Library
 
+[Bootstrap](http://getbootstrap.com/) ([source](https://github.com/twbs/bootstrap/)) -- front-end web development framework
+
 [Ruby](http://www.ruby-lang.org/) ([source](https://bugs.ruby-lang.org/projects/ruby-trunk/repository)) -- Ruby Programming Language
 
 [Zsh](http://www.zsh.org) ([source](http://sourceforge.net/p/zsh/code/ci/master/tree/)) -- Zsh is a shell designed for interactive use, although it is also a powerful scripting language.
