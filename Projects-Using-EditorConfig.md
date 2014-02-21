@@ -100,3 +100,5 @@ tables (sqlite3, etc.)
 [Shopware 4](http://www.shopware.de/shopware-4/) ([source](https://github.com/ShopwareAG/shopware-4)) -- Shopware 4 is an open source e-commerce software  
 
 [skm](https://github.com/xuhdev/skm#readme) ([source](https://github.com/xuhdev/skm)) -- Ssh Key Manager
+
+[WordPress](http://wordpress.org) ([source](https://core.trac.wordpress.org/browser/trunk)) -- WordPress is web software you can use to create a beautiful website or blog.
