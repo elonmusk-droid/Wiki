@@ -102,3 +102,5 @@ tables (sqlite3, etc.)
 [skm](https://github.com/xuhdev/skm#readme) ([source](https://github.com/xuhdev/skm)) -- Ssh Key Manager
 
 [WordPress](http://wordpress.org) ([source](https://core.trac.wordpress.org/browser/trunk)) -- WordPress is web software you can use to create a beautiful website or blog.
+
+[Mozilla Developer Network](https://developer.mozilla.org/) ([source](https://github.com/mozilla/kuma)) -- a learning platform for Web technologies and the software that powers the Web
