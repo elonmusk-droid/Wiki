@@ -20,6 +20,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Yeoman](http://yeoman.io/) ([source](https://github.com/yeoman/yeoman)) -- a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
 
+[roots](http://roots.cx) ([source](https://github.com/jenius/roots)) -- a toolbox for building simple, beautiful, and efficient products for the web.
+
 [Chocolatey](http://chocolatey.org) ([source](https://github.com/chocolatey/chocolatey)) -- Chocolatey NuGet - Like apt-get, but for Windows.
 
 [Roots Theme](http://www.rootstheme.com/) ([source](https://github.com/retlehs/roots)) -- Roots is a starting WordPress theme made for developers based on HTML5 Boilerplate & Bootstrap
