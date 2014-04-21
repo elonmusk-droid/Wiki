@@ -65,6 +65,7 @@ An incomplete list of projects that are using EditorConfig:
 [Mozilla Developer Network](https://developer.mozilla.org/) ([source](https://github.com/mozilla/kuma)) -- a learning platform for Web technologies and the software that powers the Web
 
 [Octopress](https://github.com/imathis/octopress) -- Octopress is an obsessively designed framework for Jekyll blogging.
+
 [Phabricator](http://phabricator.org/) ([source](https://github.com/facebook/phabricator/), [Arcanist](https://github.com/facebook/arcanist/), [libphutil](https://github.com/facebook/libphutil/)) -- Open source collection of web applications which makes it easier to scale software companies (founded at Facebook).
 
 [pycco](http://fitzgen.github.com/pycco/) ([source](https://github.com/fitzgen/pycco)) -- Literate-style documentation generator (Python port of docco)
