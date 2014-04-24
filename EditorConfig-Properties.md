@@ -54,7 +54,7 @@ Width of a single tabstop character
 
 ## `end_of_line`
 
-Line ending file format (Unix, DOS, Mac)
+Line ending file format (Unix, Mac, DOS)
 
 _The values are case insensitive. They will be lowercased by the core library._
 
