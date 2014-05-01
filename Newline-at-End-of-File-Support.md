@@ -1,4 +1,4 @@
-This property has already been added to the EditorConfig specification as `insert_final_newline`. This wiki page is only for achieve purpose.
+This property has already been added to the EditorConfig specification as `insert_final_newline`. This wiki page is only for archive purposes.
 
 --------------------------------------------------------
 
