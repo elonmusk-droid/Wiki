@@ -92,7 +92,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [Typeplate](http://typeplate.com/) ([source](https://github.com/typeplate/typeplate.github.com/blob/master/.editorconfig)) -- Typeplate "A Typographic Starter Kit"
 
-[Video.js](http://videojs.com) ([source](https://github.com/zencoder/video-js)) -- Universal video embed. Supports HTML5 and Flash video, with a common JavaScript API and CSS skin for both.
+[Underscore](http://underscorejs.org/) ([source](https://github.com/jashkenas/underscore/blob/master/.editorconfig)) -- JavaScript's utility _ belt
 
 [vim-latex-live-preview](https://github.com/xuhdev/vim-latex-live-preview#readme) ([source](https://github.com/xuhdev/vim-latex-live-preview)) -- A vim plugin for lively previewing LaTeX PDF output
 
