@@ -76,6 +76,9 @@ An incomplete list of projects that are using EditorConfig:
 
 [Ruby](http://www.ruby-lang.org/) ([source](https://bugs.ruby-lang.org/projects/ruby-trunk/repository)) -- Ruby Programming Language
 
+[SchemaStore.org](http://schemastore.org) ([source]
+(https://github.com/madskristensen/SchemaStore)) -- JSON Schema collection and API
+
 [screenfull.js](https://github.com/sindresorhus/screenfull.js#readme) ([source](https://github.com/sindresorhus/screenfull.js)) -- Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 
 [Shopware 4](http://www.shopware.de/shopware-4/) ([source](https://github.com/ShopwareAG/shopware-4)) -- Shopware 4 is an open source e-commerce software  
