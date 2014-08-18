@@ -1,6 +1,6 @@
 # Current and Future EditorConfig Properties
 
-This document details current EditorConfig properties and ideas for future properties (both universal and domain-spcecific).
+This document details current EditorConfig properties and ideas for future properties (both universal and domain-specific).
 
 # Universal vs. Domain-Specific
 
