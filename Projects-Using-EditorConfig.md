@@ -68,6 +68,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Phabricator](http://phabricator.org/) ([source](https://github.com/facebook/phabricator/), [Arcanist](https://github.com/facebook/arcanist/), [libphutil](https://github.com/facebook/libphutil/)) -- Open source collection of web applications which makes it easier to scale software companies (founded at Facebook).
 
+[phpMyFAQ](http://www.phpmyfaq.de/) ([source](https://github.com/thorsten/phpMyFAQ/blob/2.8/.editorconfig) -- phpMyFAQ is an open source FAQ management application
+
 [pycco](http://fitzgen.github.com/pycco/) ([source](https://github.com/fitzgen/pycco)) -- Literate-style documentation generator (Python port of docco)
 
 [Roots Theme](http://www.rootstheme.com/) ([source](https://github.com/retlehs/roots)) -- Roots is a starting WordPress theme made for developers based on HTML5 Boilerplate & Bootstrap
