@@ -2,7 +2,7 @@ Issue [#89](https://github.com/editorconfig/editorconfig/issues/89).
 
 ## Option for setting a maximum length for each line
 
-A `max_line_length` option (or similarly named option) will force hard line wrapping after the amount of characters specified.
+A `max_line_length` option (or similarly named option) will force either hard or soft line wrapping after the amount of characters specified.
 
 ## Behavior
 
