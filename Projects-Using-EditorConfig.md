@@ -66,7 +66,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [Octopress](https://github.com/imathis/octopress) -- Octopress is an obsessively designed framework for Jekyll blogging.
 
-[Phabricator](http://phabricator.org/) ([source](https://github.com/facebook/phabricator/), [Arcanist](https://github.com/facebook/arcanist/), [libphutil](https://github.com/facebook/libphutil/)) -- Open source collection of web applications which makes it easier to scale software companies (founded at Facebook).
+[Phabricator](http://phabricator.org/) ([source](https://github.com/phacility/phabricator/), [Arcanist](https://github.com/phacility/arcanist/), [libphutil](https://github.com/phacility/libphutil/)) -- Open source collection of web applications which makes it easier to scale software companies (founded at Facebook).
 
 [phpMyFAQ](http://www.phpmyfaq.de/) ([source](https://github.com/thorsten/phpMyFAQ/blob/2.8/.editorconfig)) -- phpMyFAQ is an open source FAQ management application
 
