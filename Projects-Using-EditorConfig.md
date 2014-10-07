@@ -89,6 +89,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [skm](https://github.com/xuhdev/skm#readme) ([source](https://github.com/xuhdev/skm)) -- Ssh Key Manager
 
+[Sndicate](https://github.com/Sndicate/sndicate) -- Distributed publishing platform (or, you know, a blog)
+
 [Symfony2](http://symfony.com/) ([source](https://github.com/symfony/symfony)) -- Symfony2
 
 [tags2db](http://xuhdev.github.com/tags2db) ([source](https://github.com/xuhdev/tags2db)) -- Converts tags files (ctags, gccxml, etc.) to database tables (sqlite3, etc.)
