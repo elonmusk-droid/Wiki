@@ -46,6 +46,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [JabbR](http://about.jabbr.net/) ([source](https://github.com/JabbR/JabbR)) -- JabbR is a chat application built with ASP.NET using SignalR.
 
+[JenkinsCI](http://jenkins-ci.org/) ([source](https://github.com/jenkinsci/jenkins/blob/master/.editorconfig)) -- Jenkins Continuous Integration Server
+
 [jQuery Expander](http://plugins.learningjquery.com/expander/) ([source](https://github.com/kswedberg/jquery-expander)) -- Expand and Collapse HTML content
 
 [jQuery UI](http://jqueryui.com/) ([source](https://github.com/jquery/jquery-ui)) -- The official jQuery user interface library
