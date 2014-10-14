@@ -101,6 +101,9 @@ An incomplete list of projects that are using EditorConfig:
 
 [Typeplate](http://typeplate.com/) ([source](https://github.com/typeplate/typeplate.github.com/blob/master/.editorconfig)) -- Typeplate "A Typographic Starter Kit"
 
+[TYPO3 CMS](http://www.typo3.org) ([source]
+(https://git.typo3.org/Packages/TYPO3.CMS.git/blob/HEAD:/.editorconfig)) -- A enterprise content management framework
+
 [Underscore](http://underscorejs.org/) ([source](https://github.com/jashkenas/underscore/blob/master/.editorconfig)) -- JavaScript's utility _ belt
 
 [vim-latex-live-preview](https://github.com/xuhdev/vim-latex-live-preview#readme) ([source](https://github.com/xuhdev/vim-latex-live-preview)) -- A vim plugin for lively previewing LaTeX PDF output
