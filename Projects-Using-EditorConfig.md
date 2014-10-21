@@ -2,6 +2,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [A11Y Project](http://a11yproject.com) ([source](https://github.com/a11yproject/a11yproject.com/blob/gh-pages/.editorconfig)) -- A11Y Project : A community-driven effort to make web accessibility easier.
 
+[Amaze UI](https://github.com/allmobilize/amazeui) ([source](https://github.com/allmobilize/amazeui/blob/master/.editorconfig)) -- A front-end framework from China.
+
 [Angular Strap](http://mgcrea.github.io/angular-strap/) -- Bootstrap directives for Angular
 
 [angular-leaflet-directive](https://github.com/tombatossals/angular-leaflet-directive) -- angular directive for leaflet library.
