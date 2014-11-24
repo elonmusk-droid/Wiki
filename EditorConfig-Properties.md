@@ -187,6 +187,12 @@ some tools that rely on EditorConfig files.
             <td>C-family languages (such as C, C++, Java, Javascript, etc.) with code blocks using curly braces</td>
         
         </tr>
+        <tr>
+            <td><code>continuation_indent_size</code></td>
+            <td><code>int</code></td>
+            <td>Denotes the continuation indent size.  Useful for method-chaining</td>
+            <td>JetBrains (IntelliJ IDEA)</td>
+        </tr>
     </tbody>
 
 </table>
