@@ -36,6 +36,9 @@ An incomplete list of projects that are using EditorConfig:
 
 [GitHub Notifier](https://github.com/sindresorhus/GitHub-Notifier#readme) ([source](https://github.com/sindresorhus/GitHub-Notifier)) -- Browser extension that displays your GitHub notifications unread count
 
+
+[go-pinyin](https://github.com/mozillazg/go-pinyin) ([source](https://github.com/mozillazg/go-pinyin)) -- A Go package for convert Chinese Hanzi to Pinyin.
+
 [grunt-recess](https://github.com/sindresorhus/grunt-recess#readme) ([source](https://github.com/sindresorhus/grunt-recess)) -- Grunt task to lint and minify CSS or LESS
 
 [grunt-shell](https://github.com/sindresorhus/grunt-shell#readme) ([source](https://github.com/sindresorhus/grunt-shell)) -- Grunt task to run shell commands
@@ -75,6 +78,8 @@ An incomplete list of projects that are using EditorConfig:
 [phpMyFAQ](http://www.phpmyfaq.de/) ([source](https://github.com/thorsten/phpMyFAQ/blob/2.8/.editorconfig)) -- phpMyFAQ is an open source FAQ management application
 
 [pycco](http://fitzgen.github.com/pycco/) ([source](https://github.com/fitzgen/pycco)) -- Literate-style documentation generator (Python port of docco)
+
+[python-pinyin](https://github.com/mozillazg/python-pinyin) ([source](https://github.com/mozillazg/python-pinyin)) -- A Python package for convert Chinese Hanzi to Pinyin.
 
 [Roots Theme](http://www.rootstheme.com/) ([source](https://github.com/retlehs/roots)) -- Roots is a starting WordPress theme made for developers based on HTML5 Boilerplate & Bootstrap
 
