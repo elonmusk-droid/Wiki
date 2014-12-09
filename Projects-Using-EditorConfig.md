@@ -8,6 +8,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [angular-leaflet-directive](https://github.com/tombatossals/angular-leaflet-directive) -- angular directive for leaflet library.
 
+[Autofac](http://autofac.org/) ([source](https://github.com/autofac/Autofac)) -- An addictive .NET IoC container.
+
 [basket.js](http://addyosmani.github.com/basket.js/) ([source](https://github.com/addyosmani/basket.js)) -- A proof-of-concept script loader for caching/loading scripts with localStorage
 
 [Bootstrap](http://getbootstrap.com/) ([source](https://github.com/twbs/bootstrap/)) -- front-end web development framework
