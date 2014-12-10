@@ -108,6 +108,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [TodoMVC](http://todomvc.com) ([source](https://github.com/addyosmani/todomvc)) -- A common learning application for popular JavaScript MV\* frameworks
 
+[TrainDrop](https://github.com/TrainDrop/fiches) -- A french repository of tutorials for Web teaching
+
 [Typeplate](http://typeplate.com/) ([source](https://github.com/typeplate/typeplate.github.com/blob/master/.editorconfig)) -- Typeplate "A Typographic Starter Kit"
 
 [TYPO3 CMS](http://www.typo3.org) ([source]
