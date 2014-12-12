@@ -4,6 +4,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Amaze UI](https://github.com/allmobilize/amazeui) ([source](https://github.com/allmobilize/amazeui/blob/master/.editorconfig)) -- A front-end framework from China.
 
+[AngularJS](https://angularjs.org/) ([source](https://github.com/angular/angular.js)) -- HTML enhanced for web apps
+
 [Angular Strap](http://mgcrea.github.io/angular-strap/) -- Bootstrap directives for Angular
 
 [angular-leaflet-directive](https://github.com/tombatossals/angular-leaflet-directive) -- angular directive for leaflet library.
@@ -33,6 +35,8 @@ An incomplete list of projects that are using EditorConfig:
 [django-moderation](https://github.com/dominno/django-moderation#readme) ([source](https://github.com/dominno/django-moderation)) -- django-moderation is reusable application for Django framework, that allows to moderate any model objects
 
 [Drupal](http://drupal.org) ([source](http://drupalcode.org/project/drupal.git/tree/refs/heads/8.x)) -- Drupal is an open source content management platform powering millions of websites and applications.
+
+[Ember.js](http://emberjs.com/) ([source](https://github.com/emberjs/ember.js)) -- A JavaScript framework for creating ambitious web applications 
 
 [EpicEditor](http://epiceditor.com/) -- EpicEditor is an embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
 
