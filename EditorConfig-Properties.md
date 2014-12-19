@@ -113,6 +113,7 @@ Forces hard line wrapping after the amount of characters specified
 
 ### Supported By
 
+- Emacs
 - Vim
 
 ## Ideas for Domain-Specific Properties
