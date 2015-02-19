@@ -27,8 +27,6 @@ An incomplete list of projects that are using EditorConfig:
 
 [Chocolatey](http://chocolatey.org) ([source](https://github.com/chocolatey/chocolatey)) -- Chocolatey NuGet - Like apt-get, but for Windows.
 
-[Code Painter](https://github.com/jedhunsaker/codepainter) -- Code Painter is a JavaScript beautifier.
-
 [diaspora](https://diasporafoundation.org/) ([source](https://github.com/diaspora/diaspora/blob/develop/.editorconfig)) -- distributed social network
 
 [discourse](http://www.discourse.org/) ([source](https://github.com/discourse/discourse/blob/master/.editorconfig)) -- community discussion platform
@@ -47,13 +45,11 @@ An incomplete list of projects that are using EditorConfig:
 
 [Foundation](http://foundation.zurb.com/) ([source](https://github.com/zurb/foundation/blob/master/.editorconfig)) -- Responsive front-end web development framework
 
-[Google Web Starter Kit](https://developers.google.com/web/starter-kit/) ([source](https://github.com/google/web-starter-kit/blob/master/.editorconfig) -- boilerplate for multi-device web development
+[Google Web Starter Kit](https://developers.google.com/web/starter-kit/) ([source](https://github.com/google/web-starter-kit/blob/master/.editorconfig)) -- boilerplate for multi-device web development
 
 [grunt-shell](https://github.com/sindresorhus/grunt-shell#readme) ([source](https://github.com/sindresorhus/grunt-shell)) -- Grunt task to run shell commands
 
 [gulp](http://gulpjs.com/) ([source](https://github.com/gulpjs/gulp/blob/master/.editorconfig)) -- Node.js-based streaming build system
-
-[guzzle-azure](https://github.com/gimler/guzzle-azure#readme) ([source](https://github.com/gimler/guzzle-azure)) -- Azure plugin for the guzzle php http client
 
 [Hover.css](https://ianlunn.github.io/Hover/) ([source](https://github.com/IanLunn/Hover/blob/master/.editorconfig) -- collection of CSS3 hover effects
 
@@ -85,8 +81,6 @@ An incomplete list of projects that are using EditorConfig:
 
 [Phabricator](http://phabricator.org/) ([source](https://github.com/phacility/phabricator/), [Arcanist](https://github.com/phacility/arcanist/), [libphutil](https://github.com/phacility/libphutil/)) -- Open source collection of web applications which makes it easier to scale software companies (founded at Facebook).
 
-[phpMyFAQ](http://www.phpmyfaq.de/) ([source](https://github.com/thorsten/phpMyFAQ/blob/2.8/.editorconfig)) -- phpMyFAQ is an open source FAQ management application
-
 [React](https://facebook.github.io/react/) ([react](https://github.com/facebook/react/blob/master/.editorconfig)) -- JavaScript user interface library
 
 [Roots Theme](http://www.rootstheme.com/) ([source](https://github.com/retlehs/roots)) -- Roots is a starting WordPress theme made for developers based on HTML5 Boilerplate & Bootstrap
@@ -103,8 +97,6 @@ An incomplete list of projects that are using EditorConfig:
 
 [select2](https://github.com/select2/select2) ([source](https://github.com/select2/select2/blob/select2-ng/.editorconfig)) -- jQuery-based select box replacement
 
-
-[Shopware 4](http://www.shopware.de/shopware-4/) ([source](https://github.com/ShopwareAG/shopware-4)) -- Shopware 4 is an open source e-commerce software  
 
 [SpinKit](http://tobiasahlin.com/spinkit/) ([source](https://github.com/tobiasahlin/SpinKit/blob/master/.editorconfig)) -- collection of CSS3 loading animations
 
