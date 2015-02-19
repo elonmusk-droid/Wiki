@@ -10,11 +10,14 @@ An incomplete list of projects that are using EditorConfig:
 
 [angular-leaflet-directive](https://github.com/tombatossals/angular-leaflet-directive) -- angular directive for leaflet library.
 
+[animate.css](https://daneden.github.io/animate.css/) -- ([source](https://github.com/daneden/animate.css/blob/master/.editorconfig)) -- CSS animation library
 [Autofac](http://autofac.org/) ([source](https://github.com/autofac/Autofac)) -- An addictive .NET IoC container.
 
 [basket.js](http://addyosmani.github.com/basket.js/) ([source](https://github.com/addyosmani/basket.js)) -- A proof-of-concept script loader for caching/loading scripts with localStorage
 
 [Bootstrap](http://getbootstrap.com/) ([source](https://github.com/twbs/bootstrap/)) -- front-end web development framework
+
+[bower](http://bower.io/) ([source](https://github.com/bower/bower/blob/master/.editorconfig)) -- front-end web package manager
 
 [CakePHP](http://cakephp.org) ([source](https://github.com/cakephp/cakephp)) -- The Rapid Development Framework for PHP
 
@@ -30,20 +33,31 @@ An incomplete list of projects that are using EditorConfig:
 
 [dabblet-chrome-app](https://chrome.google.com/webstore/detail/ehlimmpmogmglpfidpkbocdblhlnofke) ([source](https://github.com/drublic/dabblet-chrome-app)) -- A Chrome App for Dabblet
 
+[diaspora](https://diasporafoundation.org/) ([source](https://github.com/diaspora/diaspora/blob/develop/.editorconfig)) -- distributed social network
+
+[discourse](http://www.discourse.org/) ([source](https://github.com/discourse/discourse/blob/master/.editorconfig)) -- community discussion platform
+
 [django-model-utils](https://github.com/carljm/django-model-utils) -- Django model mixins and utilities.
 
 [django-moderation](https://github.com/dominno/django-moderation#readme) ([source](https://github.com/dominno/django-moderation)) -- django-moderation is reusable application for Django framework, that allows to moderate any model objects
 
+[dokku](https://github.com/progrium/dokku#readme) ([source](https://github.com/progrium/dokku/blob/master/.editorconfig)) -- Docker-powered mini-Heroku
+
 [Drupal](http://drupal.org) ([source](http://drupalcode.org/project/drupal.git/tree/refs/heads/8.x)) -- Drupal is an open source content management platform powering millions of websites and applications.
+
+[Effeckt.css](https://h5bp.github.io/Effeckt.css/) ([source](https://github.com/h5bp/Effeckt.css/blob/master/.editorconfig)) -- transitions and animations library
 
 [Ember.js](http://emberjs.com/) ([source](https://github.com/emberjs/ember.js)) -- A JavaScript framework for creating ambitious web applications 
 
 [EpicEditor](http://epiceditor.com/) -- EpicEditor is an embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
 
+[Foundation](http://foundation.zurb.com/) ([source](https://github.com/zurb/foundation/blob/master/.editorconfig)) -- Responsive front-end web development framework
+
 [GitHub Notifier](https://github.com/sindresorhus/GitHub-Notifier#readme) ([source](https://github.com/sindresorhus/GitHub-Notifier)) -- Browser extension that displays your GitHub notifications unread count
 
-
 [go-pinyin](https://github.com/mozillazg/go-pinyin) ([source](https://github.com/mozillazg/go-pinyin)) -- A Go package for convert Chinese Hanzi to Pinyin.
+
+[Google Web Starter Kit](https://developers.google.com/web/starter-kit/) ([source](https://github.com/google/web-starter-kit/blob/master/.editorconfig) -- boilerplate for multi-device web development
 
 [grunt-recess](https://github.com/sindresorhus/grunt-recess#readme) ([source](https://github.com/sindresorhus/grunt-recess)) -- Grunt task to lint and minify CSS or LESS
 
@@ -51,9 +65,17 @@ An incomplete list of projects that are using EditorConfig:
 
 [grunt-sizediff](https://github.com/sindresorhus/grunt-sizediff#readme) ([source](https://github.com/sindresorhus/grunt-sizediff)) -- Grunt task to diff file sizes between current git branch and a branch/commit
 
+[gulp](http://gulpjs.com/) ([source](https://github.com/gulpjs/gulp/blob/master/.editorconfig)) -- Node.js-based streaming build system
+
 [guzzle-azure](https://github.com/gimler/guzzle-azure#readme) ([source](https://github.com/gimler/guzzle-azure)) -- Azure plugin for the guzzle php http client
 
+[Hover.css](https://ianlunn.github.io/Hover/) ([source](https://github.com/IanLunn/Hover/blob/master/.editorconfig) -- collection of CSS3 hover effects
+
 [html2text](https://github.com/aaronsw/html2text) -- Convert HTML to Markdown-formatted text.
+
+[HTML5 Boilerplate](https://html5boilerplate.com/) ([source](https://github.com/h5bp/html5-boilerplate/blob/master/.editorconfig)) -- front-end web app template
+
+[Ionic](http://ionicframework.com/) ([source](https://github.com/driftyco/ionic/blob/master/.editorconfig)) -- HTML5 mobile development framework and SDK
 
 [JabbR](http://about.jabbr.net/) ([source](https://github.com/JabbR/JabbR)) -- JabbR is a chat application built with ASP.NET using SignalR.
 
@@ -73,6 +95,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Learn Git Branching](http://pcottle.github.com/learnGitBranching/?demo) -- An interactive git visualization to challenge and educate!
 
+[lodash](https://lodash.com/) ([source](https://github.com/lodash/lodash/blob/master/.editorconfig)) -- JavaScript utility library
+
 [Modernizr](http://modernizr.com/) ([source](https://github.com/Modernizr/Modernizr)) -- Feature detect HTML5 and CSS3 features
 
 [Mozilla Developer Network](https://developer.mozilla.org/) ([source](https://github.com/mozilla/kuma)) -- a learning platform for Web technologies and the software that powers the Web
@@ -87,16 +111,25 @@ An incomplete list of projects that are using EditorConfig:
 
 [python-pinyin](https://github.com/mozillazg/python-pinyin) ([source](https://github.com/mozillazg/python-pinyin)) -- A Python package for convert Chinese Hanzi to Pinyin.
 
+[React](https://facebook.github.io/react/) ([react](https://github.com/facebook/react/blob/master/.editorconfig)) -- JavaScript user interface library
+
 [Roots Theme](http://www.rootstheme.com/) ([source](https://github.com/retlehs/roots)) -- Roots is a starting WordPress theme made for developers based on HTML5 Boilerplate & Bootstrap
 
 [roots](http://roots.cx) ([source](https://github.com/jenius/roots)) -- a toolbox for building simple, beautiful, and efficient products for the web.
 
+[roslyn](https://github.com/dotnet/roslyn#readme) ([source](https://github.com/dotnet/roslyn/blob/master/.editorconfig)) -- .NET compiler platform
+
 [Ruby](http://www.ruby-lang.org/) ([source](https://bugs.ruby-lang.org/projects/ruby-trunk/repository)) -- Ruby Programming Language
+
+[Sails](http://sailsjs.org/) ([source](https://github.com/balderdashy/sails/blob/master/.editorconfig)) -- Node.js MVC framework
 
 [SchemaStore.org](http://schemastore.org) ([source]
 (https://github.com/madskristensen/SchemaStore)) -- JSON Schema collection and API
 
 [screenfull.js](https://github.com/sindresorhus/screenfull.js#readme) ([source](https://github.com/sindresorhus/screenfull.js)) -- Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
+
+[select2](https://github.com/select2/select2) ([source](https://github.com/select2/select2/blob/select2-ng/.editorconfig)) -- jQuery-based select box replacement
+
 
 [Shopware 4](http://www.shopware.de/shopware-4/) ([source](https://github.com/ShopwareAG/shopware-4)) -- Shopware 4 is an open source e-commerce software  
 
@@ -106,11 +139,15 @@ An incomplete list of projects that are using EditorConfig:
 
 [Sndicate](https://github.com/Sndicate/sndicate) -- Distributed publishing platform (or, you know, a blog)
 
+[SpinKit](http://tobiasahlin.com/spinkit/) ([source](https://github.com/tobiasahlin/SpinKit/blob/master/.editorconfig)) -- collection of CSS3 loading animations
+
+[sweetalert](http://tristanedwards.me/sweetalert) ([source](https://github.com/t4t5/sweetalert/blob/master/.editorconfig)) -- replacement for JavaScript "alert"
+
 [Symfony2](http://symfony.com/) ([source](https://github.com/symfony/symfony)) -- Symfony2
 
 [tags2db](http://xuhdev.github.com/tags2db) ([source](https://github.com/xuhdev/tags2db)) -- Converts tags files (ctags, gccxml, etc.) to database tables (sqlite3, etc.)
 
-[TodoMVC](http://todomvc.com) ([source](https://github.com/addyosmani/todomvc)) -- A common learning application for popular JavaScript MV\* frameworks
+[TodoMVC](http://todomvc.com) ([source](https://github.com/tastejs/todomvc)) -- A common learning application for popular JavaScript MV\* frameworks
 
 [TrainDrop](https://github.com/TrainDrop/fiches) -- A french repository of tutorials for Web teaching
 
@@ -125,7 +162,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [WordPress](http://wordpress.org) ([source](https://core.trac.wordpress.org/browser/trunk)) -- WordPress is web software you can use to create a beautiful website or blog.
 
-[Yeoman](http://yeoman.io/) ([source](https://github.com/yeoman/yeoman)) -- a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
+[Yeoman](http://yeoman.io/) ([source](https://github.com/yeoman/yo/blob/master/.editorconfig)) -- a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
 
 [Zikula](http://zikula.org/) ([source](https://github.com/zikula/core)) -- Zikula Core
 
