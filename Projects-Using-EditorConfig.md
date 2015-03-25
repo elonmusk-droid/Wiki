@@ -45,11 +45,15 @@ An incomplete list of projects that are using EditorConfig:
 
 [Foundation](http://foundation.zurb.com/) ([source](https://github.com/zurb/foundation/blob/master/.editorconfig)) -- Responsive front-end web development framework
 
+[GitHub Streak](https://github.com/jontsai/github-streak) - Keep your GitHub streak alive
+
 [Google Web Starter Kit](https://developers.google.com/web/starter-kit/) ([source](https://github.com/google/web-starter-kit/blob/master/.editorconfig)) -- boilerplate for multi-device web development
 
 [grunt-shell](https://github.com/sindresorhus/grunt-shell#readme) ([source](https://github.com/sindresorhus/grunt-shell)) -- Grunt task to run shell commands
 
 [gulp](http://gulpjs.com/) ([source](https://github.com/gulpjs/gulp/blob/master/.editorconfig)) -- Node.js-based streaming build system
+
+[Hacktoolkit](http://hacktoolkit.com) - Refined APIs and bootstrap code for hackathon projects and beyond.
 
 [Hover.css](https://ianlunn.github.io/Hover/) ([source](https://github.com/IanLunn/Hover/blob/master/.editorconfig) -- collection of CSS3 hover effects
 
