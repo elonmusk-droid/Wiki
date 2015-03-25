@@ -11,6 +11,7 @@ An incomplete list of projects that are using EditorConfig:
 [angular-leaflet-directive](https://github.com/tombatossals/angular-leaflet-directive) -- angular directive for leaflet library.
 
 [animate.css](https://daneden.github.io/animate.css/) -- ([source](https://github.com/daneden/animate.css/blob/master/.editorconfig)) -- CSS animation library
+
 [Autofac](http://autofac.org/) ([source](https://github.com/autofac/Autofac)) -- An addictive .NET IoC container.
 
 [basket.js](http://addyosmani.github.com/basket.js/) ([source](https://github.com/addyosmani/basket.js)) -- A proof-of-concept script loader for caching/loading scripts with localStorage
