@@ -46,6 +46,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Foundation](http://foundation.zurb.com/) ([source](https://github.com/zurb/foundation/blob/master/.editorconfig)) -- Responsive front-end web development framework
 
+[Ghost](https://github.com/tryghost/ghost) ([source](https://github.com/tryghost/ghost/blob/master/.editorconfig)) -- Publishing platform
+
 [GitHub Streak](https://github.com/jontsai/github-streak) -- Keep your GitHub streak alive
 
 [Google Web Starter Kit](https://developers.google.com/web/starter-kit/) ([source](https://github.com/google/web-starter-kit/blob/master/.editorconfig)) -- boilerplate for multi-device web development
