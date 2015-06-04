@@ -18,6 +18,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Bootstrap](http://getbootstrap.com/) ([source](https://github.com/twbs/bootstrap/)) -- front-end web development framework
 
+[Bootstrap Genesis](http://ironcodestudio.com/bootstrap-genesis-theme/)([source](https://github.com/salcode/bootstrap-genesis)) -- A WordPress starter child theme that combines Bootstrap with the Genesis Framework parent theme.
+
 [bower](http://bower.io/) ([source](https://github.com/bower/bower/blob/master/.editorconfig)) -- front-end web package manager
 
 [CakePHP](http://cakephp.org) ([source](https://github.com/cakephp/cakephp)) -- The Rapid Development Framework for PHP
