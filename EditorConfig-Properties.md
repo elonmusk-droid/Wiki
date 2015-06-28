@@ -16,12 +16,12 @@ Indentation Style
 
 _The values are case insensitive. They will be lowercased by the core library._
 
-### Possible Values
+**Possible Values**
 
 - `tab`
 - `space`
 
-### Supported By
+**Supported By**
 
 - all plugins
 
@@ -31,12 +31,12 @@ Indentation Size (in single-spaced characters)
 
 _The values are case insensitive. They will be lowercased by the core library._
 
-### Possible Values
+**Possible Values**
 
 - an integer
 - `tab`
 
-### Supported By
+**Supported By**
 
 - all plugins
 
@@ -44,11 +44,11 @@ _The values are case insensitive. They will be lowercased by the core library._
 
 Width of a single tabstop character
 
-### Possible Values
+**Possible Values**
 
 - a positive integer (defaults `indent_size` when `indent_size` is a number)
 
-### Supported By
+**Supported By**
 
 - all plugins
 
@@ -58,13 +58,13 @@ Line ending file format (Unix, DOS, Mac)
 
 _The values are case insensitive. They will be lowercased by the core library._
 
-### Possible Values
+**Possible Values**
 
 - `lf`
 - `crlf`
 - `cr`
 
-### Supported By
+**Supported By**
 
 - all plugins
 
@@ -74,7 +74,7 @@ File character encoding
 
 _The values are case insensitive. They will be lowercased by the core library._
 
-### Possible Values
+**Possible Values**
 
 - `latin1`
 - `utf-8`
@@ -87,7 +87,7 @@ Denotes whether whitespace is allowed at the end of lines
 
 _The values are case insensitive. They will be lowercased by the core library._
 
-### Possible Values
+**Possible Values**
 
 - `true`
 - `false`
@@ -98,7 +98,7 @@ Denotes whether file should end with a newline
 
 _The values are case insensitive. They will be lowercased by the core library._
 
-### Possible Values
+**Possible Values**
 
 - `true`
 - `false`
@@ -107,11 +107,11 @@ _The values are case insensitive. They will be lowercased by the core library._
 
 Forces hard line wrapping after the amount of characters specified
 
-### Possible Values
+**Possible Values**
 
 - positive integers
 
-### Supported By
+**Supported By**
 
 - Emacs
 - Vim
