@@ -82,6 +82,9 @@ An incomplete list of projects that are using EditorConfig:
 
 [lodash](https://lodash.com/) ([source](https://github.com/lodash/lodash/blob/master/.editorconfig)) -- JavaScript utility library
 
+[locawebstyle](http://locaweb.github.io/locawebstyle) ([source](https://github.com/locaweb/locawebstyle/blob/master/.editorconfig)) -- A framework with CSS and JS patterns to build products admin interface.
+
+
 [Modernizr](http://modernizr.com/) ([source](https://github.com/Modernizr/Modernizr)) -- Feature detect HTML5 and CSS3 features
 
 [Mozilla Developer Network](https://developer.mozilla.org/) ([source](https://github.com/mozilla/kuma)) -- a learning platform for Web technologies and the software that powers the Web
