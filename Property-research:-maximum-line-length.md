@@ -57,9 +57,9 @@ The screen column can be an absolute number, or a number preceded with
 
 ### Emacs
 
-- Variable `fill-column': "Column beyond which automatic line-wrapping should happen."
-- Used by `M-x fill-paragraph' and `auto-fill-mode' among others.
-- The `auto-fill-mode` minor mode wraps long lines automatically when the user types a newline. It's possible for a script to enable `auto-fill-mode' on the user's behalf, but IIRC this is frowned upon in the Emacs community.
+- Variable `fill-column`: "Column beyond which automatic line-wrapping should happen."
+- Used by `M-x fill-paragraph` and `auto-fill-mode` among others.
+- The `auto-fill-mode` minor mode wraps long lines automatically when the user types a newline. It's possible for a script to enable `auto-fill-mode` on the user's behalf, but IIRC this is frowned upon in the Emacs community.
 
 
 ### Geany
