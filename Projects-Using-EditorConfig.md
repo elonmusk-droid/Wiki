@@ -109,6 +109,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [select2](https://github.com/select2/select2) ([source](https://github.com/select2/select2/blob/select2-ng/.editorconfig)) -- jQuery-based select box replacement
 
+[SilverStripe](https://silverstripe.org) ([source](https://github.com/silverstripe/silverstripe-framework/blob/master/.editorconfig)) -- PHP5 framework forming the base for the SilverStripe CMS (http://silverstripe.org).
 
 [SpinKit](http://tobiasahlin.com/spinkit/) ([source](https://github.com/tobiasahlin/SpinKit/blob/master/.editorconfig)) -- collection of CSS3 loading animations
 
