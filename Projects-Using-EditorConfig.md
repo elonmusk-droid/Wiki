@@ -124,6 +124,8 @@ An incomplete list of projects that are using EditorConfig:
 [TYPO3 CMS](http://www.typo3.org) ([source]
 (https://git.typo3.org/Packages/TYPO3.CMS.git/blob/HEAD:/.editorconfig)) -- A enterprise content management framework
 
+[Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit)([source](https://github.com/JohnLangford/vowpal_wabbit/blob/master/.editorconfig)) -- Vowpal Wabbit is the essence of speed in machine learning, able to learn from terafeature datasets with ease.
+
 [WordPress](http://wordpress.org) ([source](https://core.trac.wordpress.org/browser/trunk)) -- WordPress is web software you can use to create a beautiful website or blog.
 
 [Yeoman](http://yeoman.io/) ([source](https://github.com/yeoman/yo/blob/master/.editorconfig)) -- a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
