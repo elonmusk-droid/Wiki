@@ -186,7 +186,12 @@ some tools that rely on EditorConfig files.
             <td><code>K&amp;R</code>, <code>Allman</code>, <code>GNU</code>, <code>Horstmann</code>, etc.</td>
             <td>Denotes the <a href="https://en.wikipedia.org/wiki/Indent_style">style for using curly braces</a> in code blocks</td>
             <td>C-family languages (such as C, C++, Java, Javascript, etc.) with code blocks using curly braces</td>
-        
+        <tr>
+            
+            <td><code>Number of imports required for '*'</code></td>
+            <td>int</td>
+            <td>Denotes the number of imports required before multiple imports are automatically collapsed to a wildcard (or a wildcard is automatically expanded to explicit imports)</td>
+            <td>Java etc. (Eclipse and IDEA already have the core functionality)</td>
         </tr>
         <tr>
             <td><code>continuation_indent_size</code></td>
