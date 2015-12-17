@@ -89,6 +89,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Mozilla Developer Network](https://developer.mozilla.org/) ([source](https://github.com/mozilla/kuma)) -- a learning platform for Web technologies and the software that powers the Web
 
+[Node.js](https://nodejs.org) ([source](https://github.com/nodejs/node/blob/master/.editorconfig)) -- a JavaScript runtime built in V8
+
 [Octopress](https://github.com/imathis/octopress) -- Octopress is an obsessively designed framework for Jekyll blogging.
 
 [Phabricator](http://phabricator.org/) ([source](https://github.com/phacility/phabricator/), [Arcanist](https://github.com/phacility/arcanist/), [libphutil](https://github.com/phacility/libphutil/)) -- Open source collection of web applications which makes it easier to scale software companies (founded at Facebook).
