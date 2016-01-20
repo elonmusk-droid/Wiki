@@ -195,7 +195,7 @@ some tools that rely on EditorConfig files.
         </tr>
         <tr>
             <td><code>continuation_indent_size</code></td>
-            <td><code>int</code></td>
+            <td>unsigned integer</td>
             <td>Denotes the continuation indent size.  Useful to distinguish code blocks versus continuation lines</td>
             <td>Python, JetBrains (IntelliJ IDEA)</td>
         </tr>
