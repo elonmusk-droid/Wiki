@@ -202,7 +202,7 @@ some tools that rely on EditorConfig files.
         <tr>
             <td><code>block_comment, line_comment, block_comment_start, block_comment_end</code></td>
             <td>char</td>
-            <td>Denotes the block_comment or line_comment character to mark a block or each line as comment. Some languages require "# " predended on each line, others "// " or "; ". Some have specific block start markers and end markers such as "/* " and " */" and "\<!-- " and " --!\>" </td>
+            <td>Denotes the block_comment or line_comment character to mark a block or each line as comment. Some languages require "# " predended on each line, others "// " or "; ". Some have specific block start markers and end markers such as "/* " and " */" and "&gt;!-- " and " --!&lt;" </td>
             <td>Python, configfiles, yml, ini, JetBrains (Pycharm, IntelliJ IDEA)</td>
         </tr>
     </tbody>
