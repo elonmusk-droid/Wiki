@@ -93,3 +93,5 @@ The INI file format was chosen for EditorConfig due to its ease of use.  Some of
 * Struxt
 * UDO
 * JSON
+* ArchieML
+* μSON
