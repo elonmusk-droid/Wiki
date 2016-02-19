@@ -89,9 +89,9 @@ The INI file format was chosen for EditorConfig due to its ease of use.  Some of
 
 ## Other possible formats:
 
-* Lua
+* [Lua](http://www.lua.org/)
 * Struxt
 * UDO
-* JSON
-* ArchieML
-* μSON
+* [JSON](http://json.org/)
+* [ArchieML](http://archieml.org/)
+* [μSON](https://github.com/burningtree/uson)
