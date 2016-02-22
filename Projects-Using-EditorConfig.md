@@ -70,8 +70,6 @@ An incomplete list of projects that are using EditorConfig:
 
 [JabbR](http://about.jabbr.net/) ([source](https://github.com/JabbR/JabbR)) -- JabbR is a chat application built with ASP.NET using SignalR.
 
-[JenkinsCI](http://jenkins-ci.org/) ([source](https://github.com/jenkinsci/jenkins/blob/master/.editorconfig)) -- Jenkins Continuous Integration Server
-
 [jQuery UI](http://jqueryui.com/) ([source](https://github.com/jquery/jquery-ui)) -- The official jQuery user interface library
 
 [jquery-powertip](https://github.com/stevenbenner/jquery-powertip) -- A jQuery plugin that creates hover tooltips.
@@ -109,7 +107,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [screenfull.js](https://github.com/sindresorhus/screenfull.js#readme) ([source](https://github.com/sindresorhus/screenfull.js)) -- Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 
-[select2](https://github.com/select2/select2) ([source](https://github.com/select2/select2/blob/select2-ng/.editorconfig)) -- jQuery-based select box replacement
+[select2](https://github.com/select2/select2) ([source](https://github.com/select2/select2/blob/master/.editorconfig)) -- jQuery-based select box replacement
 
 [SilverStripe](https://silverstripe.org) ([source](https://github.com/silverstripe/silverstripe-framework/blob/master/.editorconfig)) -- PHP5 framework forming the base for the SilverStripe CMS (http://silverstripe.org).
 
