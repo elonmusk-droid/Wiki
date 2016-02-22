@@ -18,8 +18,6 @@ An incomplete list of projects that are using EditorConfig:
 
 [Bootstrap](http://getbootstrap.com/) ([source](https://github.com/twbs/bootstrap/)) -- front-end web development framework
 
-[Bootstrap Genesis](http://ironcodestudio.com/bootstrap-genesis-theme/) ([source](https://github.com/salcode/bootstrap-genesis)) -- A WordPress starter child theme that combines Bootstrap with the Genesis Framework parent theme
-
 [bower](http://bower.io/) ([source](https://github.com/bower/bower/blob/master/.editorconfig)) -- front-end web package manager
 
 [CakePHP](http://cakephp.org) ([source](https://github.com/cakephp/cakephp)) -- The Rapid Development Framework for PHP
@@ -50,8 +48,6 @@ An incomplete list of projects that are using EditorConfig:
 
 [Ghost](https://github.com/tryghost/ghost) ([source](https://github.com/tryghost/ghost/blob/master/.editorconfig)) -- Publishing platform
 
-[GitHub Streak](https://github.com/jontsai/github-streak) -- Keep your GitHub streak alive
-
 [Google Web Starter Kit](https://developers.google.com/web/starter-kit/) ([source](https://github.com/google/web-starter-kit/blob/master/.editorconfig)) -- boilerplate for multi-device web development
 
 [grunt-shell](https://github.com/sindresorhus/grunt-shell#readme) ([source](https://github.com/sindresorhus/grunt-shell)) -- Grunt task to run shell commands
@@ -79,9 +75,6 @@ An incomplete list of projects that are using EditorConfig:
 [Learn Git Branching](http://pcottle.github.com/learnGitBranching/?demo) ([source](https://github.com/pcottle/learnGitBranching/blob/master/.editorconfig)) -- An interactive git visualization to challenge and educate!
 
 [lodash](https://lodash.com/) ([source](https://github.com/lodash/lodash/blob/master/.editorconfig)) -- JavaScript utility library
-
-[locawebstyle](http://locaweb.github.io/locawebstyle) ([source](https://github.com/locaweb/locawebstyle/blob/master/.editorconfig)) -- A framework with CSS and JS patterns to build products admin interface.
-
 
 [Modernizr](http://modernizr.com/) ([source](https://github.com/Modernizr/Modernizr)) -- Feature detect HTML5 and CSS3 features
 
