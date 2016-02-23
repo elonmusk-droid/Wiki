@@ -54,7 +54,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [Elastic Search](https://www.elastic.co/products/elasticsearch) ([source](https://github.com/elastic/elasticsearch/blob/master/.editorconfig)) -- Open Source, Distributed, RESTful Search Engine
 
-[Ember.js](http://emberjs.com/) ([source](https://github.com/emberjs/ember.js)) -- A JavaScript framework for creating ambitious web applications 
+[Ember.js](http://emberjs.com/) ([source](https://github.com/emberjs/ember.js/blob/master/.editorconfig)) -- A JavaScript framework for creating ambitious web applications 
 
 [EpicEditor](http://epiceditor.com/) ([source](https://github.com/OscarGodson/EpicEditor/blob/develop/.editorconfig)) -- EpicEditor is an embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
 
