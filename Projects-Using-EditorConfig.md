@@ -117,6 +117,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Moment.js](http://momentjs.com/) ([source](https://github.com/moment/moment/blob/develop/.editorconfig)) -- Parse, validate, manipulate, and display dates in javascript.
 
+[MOOSE Framework](https://mooseframework.org/) ([source](https://github.com/idaholab/moose/blob/devel/.editorconfig)) -- a finite-element, multiphysics framework primarily developed by Idaho National Laboratory.
+
 [Mozilla Developer Network](https://developer.mozilla.org/) ([source](https://github.com/mozilla/kuma)) -- a learning platform for Web technologies and the software that powers the Web
 
 [Node.js](https://nodejs.org) ([source](https://github.com/nodejs/node/blob/master/.editorconfig)) -- a JavaScript runtime built in V8
