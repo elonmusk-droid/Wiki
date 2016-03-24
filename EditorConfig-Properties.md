@@ -10,7 +10,9 @@ This document details current EditorConfig properties and ideas for future prope
 
 # Current Universal Properties
 
-## `indent_style`
+## Widely Supported by Editors
+
+### `indent_style`
 
 Indentation Style
 
@@ -25,7 +27,7 @@ _The values are case insensitive. They will be lowercased by the core library._
 
 - all plugins
 
-## `indent_size`
+### `indent_size`
 
 Indentation Size (in single-spaced characters)
 
@@ -40,7 +42,7 @@ _The values are case insensitive. They will be lowercased by the core library._
 
 - all plugins
 
-## `tab_width`
+### `tab_width`
 
 Width of a single tabstop character
 
@@ -52,7 +54,7 @@ Width of a single tabstop character
 
 - all plugins
 
-## `end_of_line`
+### `end_of_line`
 
 Line ending file format (Unix, DOS, Mac)
 
@@ -68,7 +70,7 @@ _The values are case insensitive. They will be lowercased by the core library._
 
 - all plugins
 
-## `charset`
+### `charset`
 
 File character encoding
 
@@ -81,7 +83,7 @@ _The values are case insensitive. They will be lowercased by the core library._
 - `utf-16be`
 - `utf-16le`
 
-## `trim_trailing_whitespace`
+### `trim_trailing_whitespace`
 
 Denotes whether whitespace is allowed at the end of lines
 
@@ -92,7 +94,7 @@ _The values are case insensitive. They will be lowercased by the core library._
 - `true`
 - `false`
 
-## `insert_final_newline`
+### `insert_final_newline`
 
 Denotes whether file should end with a newline
 
@@ -103,7 +105,9 @@ _The values are case insensitive. They will be lowercased by the core library._
 - `true`
 - `false`
 
-## `max_line_length`
+## Supported By A Limited Number of Editors
+
+### `max_line_length`
 
 Forces hard line wrapping after the amount of characters specified
 
@@ -116,7 +120,7 @@ Forces hard line wrapping after the amount of characters specified
 - Emacs
 - Vim
 
-## Ideas for Domain-Specific Properties
+# Ideas for Domain-Specific Properties
 
 The following properties are not intended to be implemented by EditorConfig.  
 This is simply a brainstorm of domain-specific properties that could be supported by 
