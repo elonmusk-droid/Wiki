@@ -50,6 +50,9 @@ An incomplete list of projects that are using EditorConfig:
 
 [Drupal](http://drupal.org) ([source](http://cgit.drupalcode.org/drupal/tree/.editorconfig)) -- Drupal is an open source content management platform powering millions of websites and applications.
 
+[ECMA262](https://tc39.github.io/ecma262/) ([source](https://github.com/tc39/ecma262/blob/master/.editorconfig)) -- Status, process, and documents for ECMA262
+
+
 [Effeckt.css](https://h5bp.github.io/Effeckt.css/) ([source](https://github.com/h5bp/Effeckt.css/blob/master/.editorconfig)) -- transitions and animations library
 
 [Elastic Search](https://www.elastic.co/products/elasticsearch) ([source](https://github.com/elastic/elasticsearch/blob/master/.editorconfig)) -- Open Source, Distributed, RESTful Search Engine
