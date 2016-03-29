@@ -173,7 +173,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [video.js](http://videojs.com/) ([source](https://github.com/videojs/video.js/blob/master/.editorconfig)) -- open source HTML5 & Flash video player
 
-[Visual Studio Code](http://code.visualstudio.com/) ([source](https://github.com/Microsoft/vscode/blob/master/.editorconfig) -- text editor
+[Visual Studio Code](http://code.visualstudio.com/) ([source](https://github.com/Microsoft/vscode/blob/master/.editorconfig)) -- text editor
 
 [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit) ([source](https://github.com/JohnLangford/vowpal_wabbit/blob/master/.editorconfig)) -- Vowpal Wabbit is the essence of speed in machine learning, able to learn from terafeature datasets with ease.
 
