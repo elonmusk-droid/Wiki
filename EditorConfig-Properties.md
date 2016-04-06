@@ -109,7 +109,8 @@ _The values are case insensitive. They will be lowercased by the core library._
 
 ### `max_line_length`
 
-Forces hard line wrapping after the amount of characters specified. `off` to turn off this feature.
+Forces hard line wrapping after the amount of characters specified. `off` to
+turn off this feature (use the editor settings).
 
 **Possible Values**
 
