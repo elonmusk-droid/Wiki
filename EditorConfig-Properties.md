@@ -109,11 +109,12 @@ _The values are case insensitive. They will be lowercased by the core library._
 
 ### `max_line_length`
 
-Forces hard line wrapping after the amount of characters specified
+Forces hard line wrapping after the amount of characters specified. `off` to turn off this feature.
 
 **Possible Values**
 
 - positive integers
+- `off`
 
 **Supported By**
 
