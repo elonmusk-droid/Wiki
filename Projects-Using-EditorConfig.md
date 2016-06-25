@@ -94,7 +94,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [httpie](http://httpie.org/) ([source](https://github.com/jkbrzt/httpie/blob/master/.editorconfig)) -- CLI HTTP client
 
-[Ignite](https://infinite.red/ignite) ([source])(https://github.com/infinitered/ignite/blob/master/.editorconfig) -- React Native Generator and Starter
+[Ignite](https://infinite.red/ignite) ([source](https://github.com/infinitered/ignite/blob/master/.editorconfig)) -- React Native Generator and Starter
 
 [Ionic](http://ionicframework.com/) ([source](https://github.com/driftyco/ionic/blob/master/.editorconfig)) -- HTML5 mobile development framework and SDK
 
