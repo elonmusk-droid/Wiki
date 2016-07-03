@@ -16,7 +16,7 @@ Understood values for this option will be:
 
 ## Naming ideas
 
-The options would be `true` and `false` and would have the same behavior as descripbed above for all of the below option names.
+The options would be `true` and `false` and would have the same behavior as described above for all of the below option names.
 
 Names this option might have:
 - insert_final_newline
