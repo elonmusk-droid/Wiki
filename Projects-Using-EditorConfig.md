@@ -112,6 +112,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Learn Git Branching](http://pcottle.github.com/learnGitBranching/?demo) ([source](https://github.com/pcottle/learnGitBranching/blob/master/.editorconfig)) -- An interactive git visualization to challenge and educate!
 
+[LibreOffice](https://lodash.com/) ([source](https://github.com/LibreOffice/core/blob/master/.editorconfig)) -- The free office suite
+
 [lodash](https://lodash.com/) ([source](https://github.com/lodash/lodash/blob/master/.editorconfig)) -- JavaScript utility library
 
 [Materialize](http://materializecss.com/) ([source](http://materializecss.com/)) -- a CSS Framework based on Material Design
