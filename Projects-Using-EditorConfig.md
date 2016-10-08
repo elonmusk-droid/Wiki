@@ -138,6 +138,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [pdf.js](https://github.com/mozilla/pdf.js) ([source](https://github.com/mozilla/pdf.js/blob/master/.editorconfig)) -- PDF Reader in JavaScript
 
+[Phalcon Compose](https://github.com/sergeyklay/phalcon-compose) ([source](https://github.com/sergeyklay/phalcon-compose/blob/master/.editorconfig)) -- Phalcon ready to go Docker Compose project
+
 [phaser](http://phaser.io/) ([source](https://github.com/photonstorm/phaser/blob/master/.editorconfig)) -- fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers
 
 [pm2](http://pm2.keymetrics.io/) ([source](https://github.com/Unitech/pm2/blob/master/.editorconfig)) -- Production process manager for Node.js applications with a built-in load balancer
