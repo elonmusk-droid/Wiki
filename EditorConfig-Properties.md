@@ -121,6 +121,7 @@ turn off this feature (use the editor settings).
 
 - Emacs
 - Vim
+- Atom
 
 # Ideas for Domain-Specific Properties
 
