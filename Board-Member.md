@@ -4,7 +4,7 @@
 
 ## New Member and Member Kick-out Rules
 
-- For people who have interest and **are already a member of the GitHub EditorConfig organization** to become a member of the board: Please consider adding yourself into [this list](https://github.com/editorconfig/editorconfig/wiki/Board-Member) -- you are automatically approved for the membership.
+- For people who have interest and **are already a member of the GitHub EditorConfig organization** to become a member of the board: Please consider adding yourself into the member list -- you are automatically approved for the membership.
 
 - For people who aren't a member, please submit a new issue to apply for the membership and explain what makes you qualified. Normally this case should be rare. Over half of the current board members must approve for the applicant to become a member.
 
