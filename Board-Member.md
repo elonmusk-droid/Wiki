@@ -1,7 +1,7 @@
 ## Current Board Members
 
-- Hong Xu @xuhdev
-- Jed Mao @jedmao
+- Hong Xu [@xuhdev](https://github.com/xuhdev)
+- Jed Mao [@jedmao](https://github.com/jedmao)
 
 ## New Member and Member Kick-out Rules
 
