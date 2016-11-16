@@ -1,6 +1,7 @@
 ## Current Board Members
 
 - Hong Xu @xuhdev
+- Jed Mao @jedmao
 
 ## New Member and Member Kick-out Rules
 
