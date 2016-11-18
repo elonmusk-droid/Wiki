@@ -98,6 +98,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Ignite](https://infinite.red/ignite) ([source](https://github.com/infinitered/ignite/blob/master/.editorconfig)) -- React Native Generator and Starter
 
+[IncludeOS](http://www.includeos.org/) ([source](https://github.com/hioa-cs/IncludeOS/blob/master/.editorconfig)) -- A minimal, resource efficient unikernel for cloud services
+
 [Ionic](http://ionicframework.com/) ([source](https://github.com/driftyco/ionic/blob/master/.editorconfig)) -- HTML5 mobile development framework and SDK
 
 [jade](http://jade-lang.com/) ([source](https://github.com/pugjs/jade/blob/master/.editorconfig)) -- robust, elegant, feature rich template engine for Node.js
