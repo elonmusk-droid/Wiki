@@ -3,6 +3,7 @@
 - Hong Xu [@xuhdev](https://github.com/xuhdev)
 - Jed Mao [@jedmao](https://github.com/jedmao)
 - Sindre Sorhus [@sindresorhus](https://github.com/sindresorhus)
+- Frank Fesevur [@ffes](https://github.com/ffes)
 
 ## New Member and Member Kick-out Rules
 
