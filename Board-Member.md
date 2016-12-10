@@ -6,6 +6,7 @@
 - Frank Fesevur [@ffes](https://github.com/ffes)
 - Martijn Laarman [@mpdreamz](https://github.com/mpdreamz)
 - Trey Hunner [@treyhunner](https://github.com/treyhunner)
+- Johan Sundström [@johan](https://github.com/johan)
 
 ## New Member and Member Kick-out Rules
 
