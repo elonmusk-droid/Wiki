@@ -5,6 +5,7 @@
 - Sindre Sorhus [@sindresorhus](https://github.com/sindresorhus)
 - Frank Fesevur [@ffes](https://github.com/ffes)
 - Martijn Laarman [@mpdreamz](https://github.com/mpdreamz)
+- Trey Hunner [@treyhunner](https://github.com/treyhunner)
 
 ## New Member and Member Kick-out Rules
 
