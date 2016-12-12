@@ -123,6 +123,10 @@ turn off this feature (use the editor settings).
 - Vim
 - Atom
 
+# Propose New Properties and Values
+
+Please read the [FAQ](https://github.com/editorconfig/editorconfig/wiki/FAQ#how-to-propose-changes-to-the-format-including-new-properties-and-values).
+
 # Ideas for Domain-Specific Properties
 
 The following properties are not intended to be implemented by EditorConfig.  
