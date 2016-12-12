@@ -18,6 +18,7 @@
 
 ## Obligations
 
-- New format changes will require over half of the members to approve. Members should be able to respond (at least a yes or no) to it within two weeks, at least for most of the time.
-- New membership application from outside the EditorConfig organization will require over half of the members to approve. Members should be able to respond (at least a yes or no) to it within two weeks, at least for most of the time.
-- This should be really rare: for any member who behave really badly (sexism, racism, abusing, etc.), any member can propose to permanently cancel its membership. If over half of the other members approve, his/her membership is then permanently canceled.
+- New format changes require strictly over half of the members to approve. Members should be able to respond (at least a yes or no) to it within two weeks, at least for most of the time.
+- New membership application from outside the EditorConfig organization will require strictly over half of the members to approve. Members should be able to respond (at least a yes or no) to it within two weeks, at least for most of the time.
+- This should be really rare: for any member who behave really badly (sexism, racism, abusing, etc.), any member can propose to permanently cancel its membership. If strictly over half of the other members approve, his/her membership is then permanently canceled.
+- Any changes to the rules described on this page must be approved by strictly over half of the board members.
