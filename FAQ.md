@@ -8,7 +8,7 @@ Existing files are not reformatted. Only newly input lines are formatted in the 
 
 ## When using the Vim plugin, I got `E887: Sorry, this command is disabled, the Python's site module could not be loaded.`
 
-It is likely to happen on macOS with Vim and Python installed using Homebrew. It usually happens after a Python upgrade, which the old Vim installation does not recognize the new Python installation. To fix it, run `brew reinstall vim` or `brew reinstall macvim`.
+It is likely to happen on macOS with Vim and Python installed using Homebrew. It usually happens after a Python upgrade, at which time the old Vim installation does not recognize the new Python installation. To fix it, run `brew reinstall vim` or `brew reinstall macvim`. If it didn't help, try to recompile Vim locally running `brew reinstall vim --with-custom-python` or `brew reinstall macvim --with-custom-python`. For more info, check `brew info vim` / `brew info macvim`.
 
 ## The executable of EditorConfig core does not accept relative paths. How can I fix that?
 
