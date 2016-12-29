@@ -16,6 +16,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Autofac](http://autofac.org/) ([source](https://github.com/autofac/Autofac)) -- An addictive .NET IoC container.
 
+[Autogen](https://github.com/mbrukman/autogen) ([source](https://github.com/mbrukman/autogen/blob/master/.editorconfig)) -- copyright + license header generator for many languages
+
 [Babel](https://babeljs.io/) ([source](https://github.com/babel/babel/blob/master/.editorconfig)) -- compiler for writing next generation JavaScript
 
 [basket.js](http://addyosmani.github.com/basket.js/) ([source](https://github.com/addyosmani/basket.js)) -- A proof-of-concept script loader for caching/loading scripts with localStorage
