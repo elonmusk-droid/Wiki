@@ -10,6 +10,8 @@ This document details current EditorConfig properties and ideas for future prope
 
 # Current Universal Properties
 
+_For any property, a value of `unset` is to remove the effect of that property, even if it has been set before.
+
 ## Widely Supported by Editors
 
 ### `indent_style`
