@@ -4,7 +4,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [Amaze UI](https://github.com/allmobilize/amazeui) ([source](https://github.com/allmobilize/amazeui/blob/master/.editorconfig)) -- A front-end framework from China.
 
-[AngularJS](https://angularjs.org/) ([source](https://github.com/angular/angular.js)) -- HTML enhanced for web apps
+[AngularJS](https://angularjs.org/) ([source](https://github.com/angular/angular.js/blob/master/.editorconfig)) -- HTML enhanced for web apps
 
 [Angular Strap](http://mgcrea.github.io/angular-strap/) ([source](https://github.com/mgcrea/angular-strap/blob/master/.editorconfig)) -- Bootstrap directives for Angular
 
