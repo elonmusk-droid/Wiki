@@ -124,6 +124,7 @@ turn off this feature (use the editor settings).
 - Emacs
 - Vim
 - Atom
+- ReSharper and Rider
 
 # Propose New Properties and Values
 
