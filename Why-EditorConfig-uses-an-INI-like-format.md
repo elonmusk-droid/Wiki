@@ -6,18 +6,22 @@ The INI file format was chosen for EditorConfig due to its ease of use.  Some of
 
 * Allow any characters to appear in section names (not just alphanumeric and certain symbols).  For example:
 
-        [*[1964].txt]
-        indent_style = space
-        indent_size = 2
+```ini
+[*[1964].txt]
+indent_style = space
+indent_size = 2
+```
 
 ### Possibly modifications to this format
 
 * Allow property declarations outside of section names (at top of file only).  For example:
 
-        root = true
-        [*.py]
-        indent_style = space
-        indent_size = 4
+```ini
+root = true
+[*.py]
+indent_style = space
+indent_size = 4
+```
 
 ### Benefits of this format
 
