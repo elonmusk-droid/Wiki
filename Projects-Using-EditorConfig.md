@@ -22,7 +22,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [basket.js](http://addyosmani.github.com/basket.js/) ([source](https://github.com/addyosmani/basket.js)) -- A proof-of-concept script loader for caching/loading scripts with localStorage
 
-[Bootstrap](http://getbootstrap.com/) ([source](https://github.com/twbs/bootstrap/)) -- front-end web development framework
+[Bootstrap](http://getbootstrap.com/) ([source](https://github.com/twbs/bootstrap/blob/v4-dev/.editorconfig)) -- front-end web development framework
 
 [Bootstrap Material Design](http://fezvrasta.github.io/bootstrap-material-design/) ([source](https://github.com/FezVrasta/bootstrap-material-design/blob/master/.editorconfig)) -- Material design theme for Bootstrap 3
 
