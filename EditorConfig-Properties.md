@@ -62,6 +62,8 @@ Line ending file format (Unix, DOS, Mac)
 
 _The values are case insensitive. They will be lowercased by the core library._
 
+_**NOTE:** if you want to use native line endings between different operating systems it is better not to set this option and leave that task to the VCS! In the future we might add a value like `native` for this scenario (cf [#226](https://github.com/editorconfig/editorconfig/issues/226))._
+
 **Possible Values**
 
 - `lf`
