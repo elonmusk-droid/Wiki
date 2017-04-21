@@ -200,3 +200,5 @@ An incomplete list of projects that are using EditorConfig:
 [zsh-completions](http://github.com/zsh-users/zsh-completions#readme) ([source](http://github.com/zsh-users/zsh-completions)) -- Additional completion definitions for Zsh
 
 [Zsh](http://www.zsh.org) ([source](http://sourceforge.net/p/zsh/code/ci/master/tree/)) -- Zsh is a shell designed for interactive use, although it is also a powerful scripting language.
+
+[SFML](http://www.sfml-dev.org) ([source](https://github.com/SFML/SFML/blob/master/.editorconfig)) -- SFML is a simple, fast, cross-platform and object-oriented multimedia API. It provides access to windowing, graphics, audio and network. It is written in C++, and has bindings for various languages such as C, .Net, Ruby, Python.
