@@ -168,6 +168,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [select2](https://github.com/select2/select2) ([source](https://github.com/select2/select2/blob/master/.editorconfig)) -- jQuery-based select box replacement
 
+[SFML](http://www.sfml-dev.org) ([source](https://github.com/SFML/SFML/blob/master/.editorconfig)) -- SFML is a simple, fast, cross-platform and object-oriented multimedia API. It provides access to windowing, graphics, audio and network. It is written in C++, and has bindings for various languages such as C, .Net, Ruby, Python.
+
 [SilverStripe](https://silverstripe.org) ([source](https://github.com/silverstripe/silverstripe-framework/blob/master/.editorconfig)) -- PHP5 framework forming the base for the SilverStripe CMS (http://silverstripe.org).
 
 [SpinKit](http://tobiasahlin.com/spinkit/) ([source](https://github.com/tobiasahlin/SpinKit/blob/master/.editorconfig)) -- collection of CSS3 loading animations
@@ -200,5 +202,3 @@ An incomplete list of projects that are using EditorConfig:
 [zsh-completions](http://github.com/zsh-users/zsh-completions#readme) ([source](http://github.com/zsh-users/zsh-completions)) -- Additional completion definitions for Zsh
 
 [Zsh](http://www.zsh.org) ([source](http://sourceforge.net/p/zsh/code/ci/master/tree/)) -- Zsh is a shell designed for interactive use, although it is also a powerful scripting language.
-
-[SFML](http://www.sfml-dev.org) ([source](https://github.com/SFML/SFML/blob/master/.editorconfig)) -- SFML is a simple, fast, cross-platform and object-oriented multimedia API. It provides access to windowing, graphics, audio and network. It is written in C++, and has bindings for various languages such as C, .Net, Ruby, Python.
