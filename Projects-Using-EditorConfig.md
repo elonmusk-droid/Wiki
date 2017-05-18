@@ -126,6 +126,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Material UI](http://www.material-ui.com/) ([source](https://github.com/callemall/material-ui/blob/master/.editorconfig)) -- React Components that Implement Google's Material Design
 
+[Mockito](http://site.mockito.org/)([source])(https://github.com/mockito/mockito/blob/release/2.x/.editorconfig) -- A mocking framework for Java
+
 [Modernizr](http://modernizr.com/) ([source](https://github.com/Modernizr/Modernizr)) -- Feature detect HTML5 and CSS3 features
 
 [Moment.js](http://momentjs.com/) ([source](https://github.com/moment/moment/blob/develop/.editorconfig)) -- Parse, validate, manipulate, and display dates in javascript.
