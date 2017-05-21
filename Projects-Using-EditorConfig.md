@@ -75,6 +75,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Front-End Developer Interview Questions](http://h5bp.github.io/Front-end-Developer-Interview-Questions/) ([source](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/.editorconfig))
 
+[gae-init](https://gae-init.appspot.com/) ([source](https://github.com/gae-init/gae-init/blob/master/.editorconfig)) --  the easiest way to start new web applications on Google App Engine
+
 [Ghost](https://github.com/tryghost/ghost) ([source](https://github.com/tryghost/ghost/blob/master/.editorconfig)) -- Publishing platform
 
 [Gitbook](https://www.gitbook.com/) ([source](https://github.com/GitbookIO/gitbook/blob/master/.editorconfig) -- Modern book format and toolchain using Git and Markdown
