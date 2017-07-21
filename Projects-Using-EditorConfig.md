@@ -28,6 +28,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [bower](http://bower.io/) ([source](https://github.com/bower/bower/blob/master/.editorconfig)) -- front-end web package manager
 
+[Cachet](https://cachethq.io) ([source](https://github.com/CachetHQ/Cachet/blob/2.4/.editorconfig)) -- Open Source Status Page
+
 [CakePHP](http://cakephp.org) ([source](https://github.com/cakephp/cakephp)) -- The Rapid Development Framework for PHP
 
 [CanJS](http://canjs.us/) ([source](https://github.com/jupiterjs/canjs)) -- CanJS is a MIT-licensed, client-side, JavaScript framework that makes building rich web applications easy
