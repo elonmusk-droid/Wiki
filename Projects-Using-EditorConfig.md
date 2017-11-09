@@ -32,6 +32,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [CakePHP](http://cakephp.org) ([source](https://github.com/cakephp/cakephp)) -- The Rapid Development Framework for PHP
 
+[Calypso — WordPress.com](https://wordpress.com/) ([source](https://github.com/automattic/wp-calypso)) -- Opensource dashboard for managing multiple WordPress.com or Jetpack sites
+
 [CanJS](http://canjs.us/) ([source](https://github.com/jupiterjs/canjs)) -- CanJS is a MIT-licensed, client-side, JavaScript framework that makes building rich web applications easy
 
 [chaplin](http://chaplinjs.org/) ([source](https://github.com/chaplinjs/chaplin/blob/master/.editorconfig)) -- HTML5 application architecture using Backbone.js.
