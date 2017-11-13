@@ -10,7 +10,7 @@ This document details current EditorConfig properties and ideas for future prope
 
 # Current Universal Properties
 
-_For any property, a value of `unset` is to remove the effect of that property, even if it has been set before._
+_For any property, a value of `unset` is to remove the effect of that property, even if it has been set before. For example, add `indent_size = unset` to undefine `indent_size` property (and use editor default)._
 
 ## Widely Supported by Editors
 
