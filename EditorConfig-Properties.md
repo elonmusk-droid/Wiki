@@ -40,6 +40,8 @@ _The values are case insensitive. They will be lowercased by the core library._
 - an integer
 - `tab`
 
+If `indent_size` equals to `tab`, the `indent_size` will be set to the tab size, which should be `tab_width` if `tab_width` is specified, or the tab size set by editor if `tab_width` is not specified. 
+
 **Supported By**
 
 - all plugins
