@@ -8,9 +8,9 @@ An incomplete list of projects that are using EditorConfig:
 
 [Angular Strap](http://mgcrea.github.io/angular-strap/) ([source](https://github.com/mgcrea/angular-strap/blob/master/.editorconfig)) -- Bootstrap directives for Angular
 
-[angular-leaflet-directive](https://github.com/tombatossals/angular-leaflet-directive) -- angular directive for leaflet library.
+[Angular Leaflet Directive](http://tombatossals.github.io/angular-leaflet-directive/#!/) ([source](https://github.com/tombatossals/angular-leaflet-directive)) -- Angular directives for leaflet library
 
-[animate.css](https://daneden.github.io/animate.css/) -- ([source](https://github.com/daneden/animate.css/blob/master/.editorconfig)) -- CSS animation library
+[animate.css](https://daneden.github.io/animate.css/) ([source](https://github.com/daneden/animate.css/blob/master/.editorconfig)) -- CSS animation library
 
 [async](https://github.com/caolan/async) ([source](https://github.com/caolan/async/blob/master/.editorconfig)) -- Async utilities for node and the browser
 
@@ -88,6 +88,7 @@ An incomplete list of projects that are using EditorConfig:
 [gogs](https://gogs.io/) ([source](https://github.com/gogits/gogs/blob/master/.editorconfig)) -- Gogs (Go Git Service) is a painless self-hosted Git service
 
 [Google Web Starter Kit](https://developers.google.com/web/starter-kit/) ([source](https://github.com/google/web-starter-kit/blob/master/.editorconfig)) -- boilerplate for multi-device web development
+
 [grunt-shell](https://github.com/sindresorhus/grunt-shell#readme) ([source](https://github.com/sindresorhus/grunt-shell)) -- Grunt task to run shell commands
 
 [gulp](http://gulpjs.com/) ([source](https://github.com/gulpjs/gulp/blob/master/.editorconfig)) -- Node.js-based streaming build system
@@ -132,7 +133,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [Material UI](http://www.material-ui.com/) ([source](https://github.com/callemall/material-ui/blob/master/.editorconfig)) -- React Components that Implement Google's Material Design
 
-[Mockito](http://site.mockito.org/)([source])(https://github.com/mockito/mockito/blob/release/2.x/.editorconfig) -- A mocking framework for Java
+[Mockito](http://site.mockito.org/) ([source](https://github.com/mockito/mockito/blob/release/2.x/.editorconfig)) -- A mocking framework for Java
 
 [Modernizr](http://modernizr.com/) ([source](https://github.com/Modernizr/Modernizr)) -- Feature detect HTML5 and CSS3 features
 
@@ -180,7 +181,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [SFML](http://www.sfml-dev.org) ([source](https://github.com/SFML/SFML/blob/master/.editorconfig)) -- SFML is a simple, fast, cross-platform and object-oriented multimedia API. It provides access to windowing, graphics, audio and network. It is written in C++, and has bindings for various languages such as C, .Net, Ruby, Python.
 
-[SilverStripe](https://silverstripe.org) ([source](https://github.com/silverstripe/silverstripe-framework/blob/master/.editorconfig)) -- PHP5 framework forming the base for the SilverStripe CMS (http://silverstripe.org).
+[SilverStripe](https://silverstripe.org) ([source](https://github.com/silverstripe/silverstripe-framework/blob/master/.editorconfig)) -- PHP5 framework forming the base for the SilverStripe CMS.
 
 [SpinKit](http://tobiasahlin.com/spinkit/) ([source](https://github.com/tobiasahlin/SpinKit/blob/master/.editorconfig)) -- collection of CSS3 loading animations
 
@@ -192,8 +193,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [Typeplate](http://typeplate.com/) ([source](https://github.com/typeplate/typeplate.github.com/blob/master/.editorconfig)) -- Typeplate "A Typographic Starter Kit"
 
-[TYPO3 CMS](http://www.typo3.org) ([source]
-(https://git.typo3.org/Packages/TYPO3.CMS.git/blob/HEAD:/.editorconfig)) -- A enterprise content management framework
+[TYPO3 CMS](http://www.typo3.org) ([source](https://git.typo3.org/Packages/TYPO3.CMS.git/blob/HEAD:/.editorconfig)) -- A enterprise content management framework
 
 [video.js](http://videojs.com/) ([source](https://github.com/videojs/video.js/blob/master/.editorconfig)) -- open source HTML5 & Flash video player
 
