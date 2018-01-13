@@ -93,3 +93,7 @@ TODO
 ### Visual Studio
 
 TODO
+
+### Visual Studio Code
+
+Set a value (e.g., 100) in "editor.rulers": [ 100 ]
