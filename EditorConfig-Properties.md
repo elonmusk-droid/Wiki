@@ -202,7 +202,7 @@ some tools that rely on EditorConfig files.
 </tr>
 
 <tr>
-<td><code>Number of imports required for '*'</code></td>
+<td><code>wildcard_import_limit</code></td>
 <td>int</td>
 <td>Denotes the number of imports required before multiple imports are automatically collapsed to a wildcard (or a wildcard is automatically expanded to explicit imports)</td>
 <td>Java etc. (Eclipse and IDEA already have the core functionality)</td>
