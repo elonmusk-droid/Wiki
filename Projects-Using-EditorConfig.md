@@ -101,6 +101,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [HTML5 Boilerplate](https://html5boilerplate.com/) ([source](https://github.com/h5bp/html5-boilerplate/blob/master/.editorconfig)) -- front-end web app template
 
+[htop](https://hisham.hm/htop) ([source](https://github.com/hishamhm/htop/blob/master/.editorconfig)) -- interactive process viewer
+
 [httpie](http://httpie.org/) ([source](https://github.com/jkbrzt/httpie/blob/master/.editorconfig)) -- CLI HTTP client
 
 [homebrew](http://brew.sh) ([source](https://github.com/Homebrew/brew/blob/master/Library/.editorconfig)) -- The missing package manager for OS X
@@ -120,6 +122,8 @@ An incomplete list of projects that are using EditorConfig:
 [jquery-powertip](https://github.com/stevenbenner/jquery-powertip) -- A jQuery plugin that creates hover tooltips.
 
 [jQuery](http://jquery.com/) ([source](https://github.com/jquery/jquery)) -- jQuery JavaScript Library
+
+[Kong](https://getkong.org) ([source](https://github.com/kong/kong/blob/master/.editorconfig)) -- The Microservice API Gateway
 
 [Learn Git Branching](http://pcottle.github.com/learnGitBranching/?demo) ([source](https://github.com/pcottle/learnGitBranching/blob/master/.editorconfig)) -- An interactive git visualization to challenge and educate!
 
