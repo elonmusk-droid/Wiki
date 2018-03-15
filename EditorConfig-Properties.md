@@ -129,6 +129,7 @@ turn off this feature (use the editor settings).
 - Vim
 - Atom
 - ReSharper and Rider
+- AppCode, IntelliJ IDEA, PhpStorm, PyCharm, RubyMine, and WebStorm
 
 # Propose New Properties and Values
 
