@@ -85,6 +85,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Gitbook](https://www.gitbook.com/) ([source](https://github.com/GitbookIO/gitbook/blob/master/.editorconfig) -- Modern book format and toolchain using Git and Markdown
 
+[GNOME Builder](https://wiki.gnome.org/Apps/Builder/) ([source](https://gitlab.gnome.org/GNOME/gnome-builder/blob/master/.editorconfig)) -- An IDE for writing GNOME-based software
+
 [gogs](https://gogs.io/) ([source](https://github.com/gogits/gogs/blob/master/.editorconfig)) -- Gogs (Go Git Service) is a painless self-hosted Git service
 
 [Google Web Starter Kit](https://developers.google.com/web/starter-kit/) ([source](https://github.com/google/web-starter-kit/blob/master/.editorconfig)) -- boilerplate for multi-device web development
