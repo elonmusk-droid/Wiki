@@ -12,7 +12,7 @@ indent_style = space
 indent_size = 2
 ```
 
-### Possibly modifications to this format
+### Possible modifications to this format
 
 * Allow property declarations outside of section names (at top of file only).  For example:
 
@@ -31,7 +31,7 @@ indent_size = 4
 
 ### Limitations
 
-* File structure must be list of sections (each with name and hash of properties)
+* File structure must be a list of sections (each with name and hash of properties)
 * Only string datatypes natively supported for property values
 
 
@@ -46,7 +46,7 @@ indent_size = 4
 ### Limitations
 
 * May not be as familiar as INI or XML
-* Top level structure uses an unorded hash unless `- ` is prepended to section names
+* The top level structure uses an unordered hash unless `- ` is prepended to section names
 * Section names using symbols (like `*`) must be surrounded by quotes
 
 ### Example file
@@ -73,11 +73,11 @@ indent_size = 4
 
 * XML parsers and formatters are readily available
 * Format is flexible enough that drastic changes should not be necessary
-* Probably somewhat familiar due to widespread use of XML-based markup
+* Probably somewhat familiar due to the widespread use of XML-based markup
 
 ### Limitations
 
-* Not very human readible
+* Not very human readable
 * Cumbersome to create and modify due to often verbose syntax
 
 ### Example file
