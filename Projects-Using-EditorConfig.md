@@ -113,6 +113,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [IncludeOS](http://www.includeos.org/) ([source](https://github.com/hioa-cs/IncludeOS/blob/master/.editorconfig)) -- A minimal, resource efficient unikernel for cloud services
 
+[ITK](https://itk.org/) ([source](https://github.com/InsightSoftwareConsortium/ITK/blob/master/.editorconfig)) -- Insight Segmentation and Registration Toolkit is an open-source, cross-platform system that provides an extensive suite of software tools for image analysis.
+
 [Ionic](http://ionicframework.com/) ([source](https://github.com/driftyco/ionic/blob/master/.editorconfig)) -- HTML5 mobile development framework and SDK
 
 [jade](http://jade-lang.com/) ([source](https://github.com/pugjs/jade/blob/master/.editorconfig)) -- robust, elegant, feature rich template engine for Node.js
