@@ -88,6 +88,7 @@ _The values are case insensitive. They will be lowercased by the core library._
 - `utf-8`
 - `utf-16be`
 - `utf-16le`
+- `utf-8-bom`
 
 ### `trim_trailing_whitespace`
 
