@@ -129,6 +129,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Kong](https://getkong.org) ([source](https://github.com/kong/kong/blob/master/.editorconfig)) -- The Microservice API Gateway
 
+[Laravel](https://laravel.com) ([source](https://github.com/laravel/laravel/blob/master/.editorconfig)) -- The PHP Framework For Web Artisans
+
 [Learn Git Branching](http://pcottle.github.com/learnGitBranching/?demo) ([source](https://github.com/pcottle/learnGitBranching/blob/master/.editorconfig)) -- An interactive git visualization to challenge and educate!
 
 [LibreOffice](http://www.libreoffice.org/) ([source](https://github.com/LibreOffice/core/blob/master/.editorconfig)) -- The free office suite
