@@ -83,7 +83,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [Ghost](https://github.com/tryghost/ghost) ([source](https://github.com/tryghost/ghost/blob/master/.editorconfig)) -- Publishing platform
 
-[Gitbook](https://www.gitbook.com/) ([source](https://github.com/GitbookIO/gitbook/blob/master/.editorconfig) -- Modern book format and toolchain using Git and Markdown
+[Gitbook](https://www.gitbook.com/) ([source](https://github.com/GitbookIO/gitbook/blob/master/.editorconfig)) -- Modern book format and toolchain using Git and Markdown
 
 [GNOME Builder](https://wiki.gnome.org/Apps/Builder/) ([source](https://gitlab.gnome.org/GNOME/gnome-builder/blob/master/.editorconfig)) -- An IDE for writing GNOME-based software
 
