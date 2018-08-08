@@ -4,7 +4,17 @@ To propose changes, please open an issue at the [issue tracker](https://github.c
 
 ## My files are not automatically reformatted, the EditorConfig plugin is not working!
 
-Existing files are not reformatted. Only newly input lines are formatted in the format given in the `.editorconfig` files. If you are looking for a tool to check or/and reformat your existing files, check [editorconfig-tools](https://github.com/treyhunner/editorconfig-tools), [eclint](https://github.com/jedmao/eclint) and [editorconfig-cf](https://github.com/xuhdev/editorconfig-cf) (none of them work perfectly though).
+Existing files are not reformatted by the plugin (only newly input lines are formatted in the format given in the `.editorconfig` files) but if you would like to use a separate tool to do this then see the next question.
+
+## Are there any tools to check or/and reformat existing files against EditorConfig rules?
+
+Yes! You might like to try:
+
+- [editorconfig-tools](https://github.com/treyhunner/editorconfig-tools)
+- [eclint](https://github.com/jedmao/eclint)
+- [editorconfig-cf](https://github.com/xuhdev/editorconfig-cf)
+
+You could use one of these tools to tidy up existing code in a repository, and then set it to [run as a continuous integration test](https://github.com/editorconfig/editorconfig/issues/362) to ensure code stays tidy in the future, but please note that none of these tools work perfectly at the moment.
 
 ## When using the Vim plugin, I got `E887: Sorry, this command is disabled, the Python's site module could not be loaded.`
 
