@@ -9,7 +9,7 @@ A `trim_trailing_whitespace` option (or similarly named option) will control whe
 - trim_trailing_whitespace (note: this is the name that ended up being chosen)
 - trim_trailing_spaces
 - allow_trailing_space
-
+- strip_trailing_space
 
 ## Support in Editors
 
