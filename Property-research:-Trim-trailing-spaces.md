@@ -26,7 +26,7 @@ A `trim_trailing_whitespace` option (or similarly named option) will control whe
 ### Geany
 
 - Does not show whitespace by default. Visible whitespace can be toggled using the View > Editor > Show White Space option.
-- Trims trailing whitespace on file save when the "Strip trailing spaces and tabs" option is enabled
+- Trims trailing whitespace on file save when the "Strip trailing spaces and tabs" option is enabled (Edit > Preferences > Files > Saving files > Strip trailing spaces and tabs).
 
 ### Notepad++
 
