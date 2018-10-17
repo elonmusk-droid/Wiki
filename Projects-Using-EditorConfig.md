@@ -169,6 +169,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [pm2](http://pm2.keymetrics.io/) ([source](https://github.com/Unitech/pm2/blob/master/.editorconfig)) -- Production process manager for Node.js applications with a built-in load balancer
 
+[qemu](https://www.qemu.org/) ([source](https://git.qemu.org/?p=qemu.git;a=blob;f=.editorconfig;h=b2022e391abfeaf4d7a4eb9b14e682ebf7ba8a43;hb=refs/heads/master)) -- QEMU is a generic and open source machine emulator and virtualizer.
+
 [React](https://facebook.github.io/react/) ([react](https://github.com/facebook/react/blob/master/.editorconfig)) -- JavaScript user interface library
 
 [React Native](http://facebook.github.io/react-native/) ([source](https://github.com/facebook/react-native/blob/master/.editorconfig)) -- A framework for building native apps with React
