@@ -189,6 +189,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [screenfull.js](https://github.com/sindresorhus/screenfull.js#readme) ([source](https://github.com/sindresorhus/screenfull.js)) -- Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 
+[Scroll To Top Button](https://scroll-to-top-button.com/) ([source](https://github.com/PoziWorld/Scroll-To-Top-Button-extension/blob/master/.editorconfig)) -- an extension for the Google Chrome, Mozilla Firefox, Microsoft Edge, Opera, and some Chromium-based browsers that allows you to quickly get back to the top and/or bottom of a page.
+
 [select2](https://github.com/select2/select2) ([source](https://github.com/select2/select2/blob/master/.editorconfig)) -- jQuery-based select box replacement
 
 [SFML](http://www.sfml-dev.org) ([source](https://github.com/SFML/SFML/blob/master/.editorconfig)) -- SFML is a simple, fast, cross-platform and object-oriented multimedia API. It provides access to windowing, graphics, audio and network. It is written in C++, and has bindings for various languages such as C, .Net, Ruby, Python.
