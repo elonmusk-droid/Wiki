@@ -159,6 +159,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Octopress](https://github.com/imathis/octopress) -- Octopress is an obsessively designed framework for Jekyll blogging.
 
+[pandoc](https://pandoc.org/) ([source](https://github.com/jgm/pandoc/) -- Universal document converter.
+
 [Phabricator](http://phabricator.org/) ([source](https://github.com/phacility/phabricator/), [Arcanist](https://github.com/phacility/arcanist/), [libphutil](https://github.com/phacility/libphutil/)) -- Open source collection of web applications which makes it easier to scale software companies (founded at Facebook).
 
 [pdf.js](https://github.com/mozilla/pdf.js) ([source](https://github.com/mozilla/pdf.js/blob/master/.editorconfig)) -- PDF Reader in JavaScript
