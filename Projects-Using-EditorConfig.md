@@ -207,6 +207,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [SpringBoot](https://spring.io/projects/spring-boot) ([source](https://github.com/spring-projects/spring-boot/blob/master/.editorconfig)) -- You can use Spring Boot to create stand-alone Java applications that can be started using java -jar or more traditional WAR deployments. 
 
+[SquirrelFramework](https://github.com/imnista/SquirrelFramework) ([source](https://github.com/imnista/SquirrelFramework/blob/master/src/.editorconfig)) -- A lightweight .NET back-end framework and utilities kit based on MongoDB/Cosmos DB.
+
 [sweetalert](http://tristanedwards.me/sweetalert) ([source](https://github.com/t4t5/sweetalert/blob/master/.editorconfig)) -- replacement for JavaScript "alert"
 
 [Symfony](http://symfony.com/) ([source](https://github.com/symfony/symfony)) -- The Symfony PHP framework
