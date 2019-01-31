@@ -121,6 +121,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [JabbR](http://about.jabbr.net/) ([source](https://github.com/JabbR/JabbR)) -- JabbR is a chat application built with ASP.NET using SignalR.
 
+[Joomla! CMS](https://joomla.org/) ([source](https://github.com/joomla/joomla-cms/)) -- The official Joomla CMS project.
+
 [jQuery UI](http://jqueryui.com/) ([source](https://github.com/jquery/jquery-ui)) -- The official jQuery user interface library
 
 [jquery-powertip](https://github.com/stevenbenner/jquery-powertip) -- A jQuery plugin that creates hover tooltips.
