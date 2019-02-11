@@ -6,7 +6,7 @@ A `max_line_length` option (or similarly named option) will force either hard or
 
 ## Behavior
 
-When the typing, the editor automatically wraps the current word to a new line if it reaches the given limit.
+When typing, the editor automatically wraps the current word to a new line if it reaches the given limit.
 
 ## Naming ideas
 
