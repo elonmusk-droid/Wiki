@@ -227,6 +227,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit) ([source](https://github.com/JohnLangford/vowpal_wabbit/blob/master/.editorconfig)) -- Vowpal Wabbit is the essence of speed in machine learning, able to learn from terafeature datasets with ease.
 
+[Vue.js](https://vuejs.org) ([source](https://github.com/vuejs/vue/blob/master/.editorconfig)) -- A progressive framework for building user interfaces.
+
 [Vuo](https://vuo.org/) ([source](https://github.com/vuo/vuo/blob/master/.editorconfig)) -- Vuo is a visual programming language for interactive media.
 
 [webpack](https://webpack.github.io/) ([source](https://github.com/webpack/webpack/blob/master/.editorconfig)) -- A bundler for javascript and friends
