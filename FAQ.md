@@ -15,6 +15,7 @@ Yes! You might like to try:
 - [editorconfig-cf](https://github.com/xuhdev/editorconfig-cf)
 - [editorconfig-maven-plugin](https://github.com/ec4j/editorconfig-maven-plugin)
 - [editorconfig-gradle-plugin](https://github.com/ec4j/editorconfig-gradle-plugin)
+- [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker)
 
 You could use one of these tools to tidy up existing code in a repository, and then set it to [run as a continuous integration test](https://github.com/editorconfig/editorconfig/issues/362) to ensure code stays tidy in the future, but please note that none of these tools work perfectly at the moment.
 
