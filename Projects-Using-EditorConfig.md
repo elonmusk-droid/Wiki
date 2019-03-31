@@ -73,7 +73,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [Foundation](http://foundation.zurb.com/) ([source](https://github.com/zurb/foundation/blob/master/.editorconfig)) -- Responsive front-end web development framework
 
-[FreeCodeCamp](http://www.freecodecamp.com/) ([source](https://github.com/FreeCodeCamp/FreeCodeCamp/blob/staging/.editorconfig)) -- Learn to code and help nonprofits.
+[FreeCodeCamp](http://www.freecodecamp.com/) ([source](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/.editorconfig)) -- Learn to code and help nonprofits.
 
 [free-programming-books](https://github.com/vhf/free-programming-books) ([source](https://github.com/vhf/free-programming-books/blob/master/.editorconfig)) -- Freely available programming books
 
