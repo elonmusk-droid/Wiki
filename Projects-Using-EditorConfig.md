@@ -213,7 +213,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [sweetalert](http://tristanedwards.me/sweetalert) ([source](https://github.com/t4t5/sweetalert/blob/master/.editorconfig)) -- replacement for JavaScript "alert"
 
-[Symfony](http://symfony.com/) ([source](https://github.com/symfony/symfony)) -- The Symfony PHP framework
+[Symfony](http://symfony.com/) ([source](https://github.com/symfony/symfony/blob/master/.editorconfig)) -- The Symfony PHP framework
 
 [TodoMVC](http://todomvc.com) ([source](https://github.com/tastejs/todomvc)) -- A common learning application for popular JavaScript MV\* frameworks
 
