@@ -131,6 +131,7 @@ turn off this feature (use the editor settings).
 - Atom
 - ReSharper and Rider
 - AppCode, IntelliJ IDEA, PhpStorm, PyCharm, RubyMine, and WebStorm
+- Kakoune
 
 # Propose New Properties and Values
 
