@@ -17,7 +17,7 @@ Yes! You might like to try:
 - [editorconfig-gradle-plugin](https://github.com/ec4j/editorconfig-gradle-plugin)
 - [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker)
 
-You could use one of these tools to tidy up existing code in a repository, and then set it to [run as a continuous integration test](https://github.com/editorconfig/editorconfig/issues/362) to ensure code stays tidy in the future, but please note that none of these tools work perfectly at the moment.
+You could use one of these tools to tidy up existing code in a repository, and then set it to [run as a continuous integration test](https://github.com/editorconfig/editorconfig/issues/362) to ensure code stays tidy in the future, but please note that none of these tools work perfectly at the moment. In addition, a [GitHub Action](https://github.com/marketplace/actions/editorconfig-action) exists to check and enforce project style against a top-level `.editorconfig` using [eclint](https://github.com/jedmao/eclint).
 
 ## When using the Vim plugin, I got `E887: Sorry, this command is disabled, the Python's site module could not be loaded.`
 
