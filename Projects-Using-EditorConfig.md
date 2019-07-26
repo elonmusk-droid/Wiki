@@ -185,6 +185,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Redux](http://redux.js.org/) ([source](https://github.com/reactjs/redux/blob/master/.editorconfig)) -- Predictable state container for JavaScript apps
 
+[rmw](https://remove-to-waste.info/) ([source](https://github.com/theimpossibleastronaut/rmw)) -- a safe-remove utility for the command line
+
 [Roots Theme](http://www.rootstheme.com/) ([source](https://github.com/retlehs/roots)) -- Roots is a starting WordPress theme made for developers based on HTML5 Boilerplate & Bootstrap
 
 [roots](http://roots.cx) ([source](https://github.com/jenius/roots)) -- a toolbox for building simple, beautiful, and efficient products for the web.
