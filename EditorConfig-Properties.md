@@ -92,14 +92,14 @@ _The values are case insensitive. They will be lowercased by the core library._
 
 ### `trim_trailing_whitespace`
 
-Denotes whether whitespace is allowed at the end of lines
+Denotes whether whitespace is removed from the end of lines
 
 _The values are case insensitive. They will be lowercased by the core library._
 
 **Possible Values**
 
-- `true`
-- `false`
+- `true`: remove any whitespace characters preceding newline characters
+- `false`: ensure the editor keeps whitespace characters
 
 ### `insert_final_newline`
 
