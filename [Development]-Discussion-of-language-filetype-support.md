@@ -46,7 +46,7 @@ A possible enhancement to the core is a mechanism to group settings which are fo
 
 `[: syntax_uid=$syntax_or_filetype_name]`
 
-where the latter two readily provide for other such "group types" to be added in the future.
+where the latter two readily provide for other such "group types" to be added in the future.  Also, the term "syntax_uid" arguably encourages the user to note that there is a distinction between the EditorConfig syntax_uid, and their $EDITOR's syntax ID.
 
 Filetype is arguably better defined as `syntax`, as some files have content of more than one syntax.
 
