@@ -38,13 +38,15 @@ These issues all seem to be asking that EditorConfig be aware of the filetype wh
 
 With a per-plugin (i.e. per $EDITOR) syntax or filetype UID mapping, no change to the EditorConfig core ought be needed, other than to "allow" a declaration of "syntax" or "filetype" within existing groups.
 
-A possible enhancement to the core is a mechanism to group settings which are for a particular syntax/ filetype.  Two suggestions for .editorconfig syntax for this are
+A possible enhancement to the core is a mechanism to group settings which are for a particular syntax/ filetype.  Suggestions for .editorconfig syntax for this include:
 
 `[[syntax_uid/filetype_name]]`
 
-and
+`[[syntax_uid=$syntax_or_filetype_name]]`
 
 `[: syntax_uid=$syntax_or_filetype_name]`
+
+where the latter two readily provide for other such "group types" to be added in the future.
 
 Filetype is arguably better defined as `syntax`, as some files have content of more than one syntax.
 
