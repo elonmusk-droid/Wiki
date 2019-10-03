@@ -34,7 +34,21 @@ Also related:
 
 ## Summary
 
-These issues all seem to be asking that EditorConfig be aware of the filetype when choosing settings for a file.
+These issues all seem to be asking that EditorConfig be aware of the filetype when choosing settings for a file, or at least that per-filetype settings be declarable in `.editorconfig` files.
+
+With a per-plugin (i.e. per $EDITOR) syntax or filetype UID mapping, no change to the EditorConfig core ought be needed, other than to "allow" a declaration of "syntax" or "filetype" within existing groups.
+
+A possible enhancement to the core is a mechanism to group settings which are for a particular syntax/ filetype.  Two suggestions for .editorconfig syntax for this are
+
+`[[syntax_uid/filetype_name]]`
+
+and
+
+`[: syntax_uid=$syntax_or_filetype_name]`
+
+Filetype is arguably better defined as `syntax`, as some files have content of more than one syntax.
+
+Also, many common "filetypes" are in use which combine two existing syntaxes, e.g. Java and HTML, Python and HTML, R and plain english text, etc.
 
 ## Some challenges
 
