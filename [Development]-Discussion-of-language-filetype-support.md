@@ -17,6 +17,7 @@ This page is for consideration of questions being discussed in issues:
 Also related:
  - [dlenski/wtf#15](https://github.com/dlenski/wtf/issues/15)
  - [mvdan/sh#393](https://github.com/mvdan/sh/issues/393)
+ - [zenaan/lang-list](https://github.com/zenaan/lang-list) - `syntax_uid` proposal/ proof of concept
 
 ## Current dataflow
 
