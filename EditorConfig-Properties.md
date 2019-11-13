@@ -145,7 +145,7 @@ The following properties are not intended to be implemented by EditorConfig.
 This is simply a brainstorm of domain-specific properties that could be supported by 
 some tools that rely on EditorConfig files.
 
-There exist proposals to "namespace" properties with a `lang/` prefix.
+There exist proposals to "namespace" properties with a language-dependent prefix. See #332.
 
 <table>
 <caption>Ideas for Domain-Specific Properties</caption>
