@@ -1,4 +1,4 @@
-Properties are now known as "declarations", but that is only a name change.
+Properties are now known as "declarations", but that is only a name change. You should probably always read the [latest doc](https://editorconfig-specification.readthedocs.io/en/latest/).
 
 # Current and Future EditorConfig Properties
 
