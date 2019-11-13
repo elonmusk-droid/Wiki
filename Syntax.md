@@ -4,4 +4,4 @@ It is somewhat compatible with the format used by [Python ConfigParser Library](
 
 - `[` and `]` can be used inside the sections (`[...]`);
 - Comments should go in individual lines, we are not sure whether appending comments may cause issues.
-- There is no official support for fancy stuff like continuation and quoting.
+- There is no official support for fancy stuff like continuation and quoting. You probably should not rely on it.
