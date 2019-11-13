@@ -1,3 +1,5 @@
+Properties are now known as "declarations", but that is only a name change.
+
 # Current and Future EditorConfig Properties
 
 This document details current EditorConfig properties and ideas for future properties (both universal and domain-specific).
