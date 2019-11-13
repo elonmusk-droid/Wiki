@@ -2,7 +2,7 @@
 
 We should decide which character sets to support for each/all plugins.  Other character sets could be specified outside of this set and they would be ignored if not understood by the editor.  This is simply a list of character sets that all plugins should attempt to support at a minimum.
 
-- [UTF-8](https://en.wikipedia.org/wiki/UTF-8), BO
+- [UTF-8](https://en.wikipedia.org/wiki/UTF-8), BOM deprecated.
 - [UTF-16](https://en.wikipedia.org/wiki/UTF-16), LE/BE, BOM unspecified.
 - [Latin-1](https://en.wikipedia.org/wiki/Latin-1)
 
