@@ -80,7 +80,7 @@ _**NOTE:** if you want to use native line endings between different operating sy
 
 ### `charset`
 
-File character encoding
+File character encoding (See [[Character Set Support]].)
 
 _The values are case insensitive. They will be lowercased by the core library._
 
