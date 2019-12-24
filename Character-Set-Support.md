@@ -8,7 +8,7 @@ We should decide which character sets to support for each/all plugins.  Other ch
 
 If an implementation wishes to define a new character set, it is recommended that it consults outside authorities such as the [WHATWG Encoding Standard](https://encoding.spec.whatwg.org/) and the [IANA Character Set registry](iana.org/assignments/character-sets/character-sets.xhtml). Using a special prefix such as `x-` is neither required nor recommended, as unsupported values are simply ignored.
 
-# Setting Character Set in text editors
+# Setting character sets in text editors
 
 ## Vim
 
@@ -16,25 +16,32 @@ Vim character encodings can be set with the `filencoding` command ([see document
 
 #### Setting UTF-8
 
-    set fileencoding=utf-8
+```viml
+set fileencoding=utf-8
+```
 
 #### Setting Latin1
 
-    set fileencoding=latin1
+```viml
+set fileencoding=latin1
+```
 
+## Emacs
 
-## emacs
-
-As noted [here](http://www.emacswiki.org/emacs/EndOfLineTips), emacs character encodings and end of line formats are both set using the `set-buffer-file-coding-system` command.
+As noted [here](http://www.emacswiki.org/emacs/EndOfLineTips), Emacs character encodings and end-of-line formats are both set using the `set-buffer-file-coding-system` command.
 
 #### Setting UTF-8
 
-    (set-buffer-file-coding-system 'utf-8-unix)
-    (set-buffer-file-coding-system 'utf-8-dos)
-    (set-buffer-file-coding-system 'utf-8-mac)
+```elisp
+(set-buffer-file-coding-system 'utf-8-unix)
+(set-buffer-file-coding-system 'utf-8-dos)
+(set-buffer-file-coding-system 'utf-8-mac)
+```
 
 #### Setting Latin1
 
-    (set-buffer-file-coding-system 'iso-latin-1-unix)
-    (set-buffer-file-coding-system 'iso-latin-1-dos)
-    (set-buffer-file-coding-system 'iso-latin-1-mac)
+```elisp
+(set-buffer-file-coding-system 'iso-latin-1-unix)
+(set-buffer-file-coding-system 'iso-latin-1-dos)
+(set-buffer-file-coding-system 'iso-latin-1-mac)
+```
