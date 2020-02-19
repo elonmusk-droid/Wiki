@@ -235,7 +235,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [webpack](https://webpack.github.io/) ([source](https://github.com/webpack/webpack/blob/master/.editorconfig)) -- A bundler for javascript and friends
 
-[WordPress](http://wordpress.org) ([source](https://core.trac.wordpress.org/browser/trunk)) -- WordPress is web software you can use to create a beautiful website or blog.
+[WordPress](http://wordpress.org) ([source](https://core.trac.wordpress.org/browser/trunk/.editorconfig)) -- WordPress is web software you can use to create a beautiful website or blog.
 
 [Yeoman](http://yeoman.io/) ([source](https://github.com/yeoman/yo/blob/master/.editorconfig)) -- a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
 
