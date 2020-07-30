@@ -225,7 +225,7 @@ There is a proposal to "namespace" properties with a language-dependent prefix. 
 <tr>
 <td><code>block_comment, line_comment, block_comment_start, block_comment_end</code></td>
 <td>char</td>
-<td>Denotes the block_comment or line_comment character to mark a block or each line as comment. Some languages require <code>#</code> predended on each line, others <code>//</code> or <code>;</code>. Some have specific block start markers and end markers such as <code>/*</code> and <code>*/</code> and <code>&lt;!--</code> and <code>--!&gt;</code></td>
+<td>Denotes the block_comment or line_comment character to mark a block or each line as comment. Some languages require <code>#</code> prepended on each line, others <code>//</code> or <code>;</code>. Some have specific block start markers and end markers such as <code>/*</code> and <code>*/</code> and <code>&lt;!--</code> and <code>--!&gt;</code></td>
 <td>Python, configfiles, yml, ini, JetBrains (Pycharm, IntelliJ IDEA)</td>
 </tr>
 
