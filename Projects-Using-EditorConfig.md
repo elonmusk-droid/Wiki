@@ -97,7 +97,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [Hacktoolkit](http://hacktoolkit.com) -- Refined APIs and bootstrap code for hackathon projects and beyond.
 
-[Hover.css](https://ianlunn.github.io/Hover/) ([source](https://github.com/IanLunn/Hover/blob/master/.editorconfig) -- collection of CSS3 hover effects
+[Hover.css](https://ianlunn.github.io/Hover/) ([source](https://github.com/IanLunn/Hover/blob/master/.editorconfig)) -- collection of CSS3 hover effects
 
 [html2text](https://github.com/aaronsw/html2text) -- Convert HTML to Markdown-formatted text.
 
@@ -161,7 +161,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [Octopress](https://github.com/imathis/octopress) -- Octopress is an obsessively designed framework for Jekyll blogging.
 
-[pandoc](https://pandoc.org/) ([source](https://github.com/jgm/pandoc/) -- Universal document converter.
+[pandoc](https://pandoc.org/) ([source](https://github.com/jgm/pandoc/)) -- Universal document converter.
 
 [Phabricator](http://phabricator.org/) ([source](https://github.com/phacility/phabricator/), [Arcanist](https://github.com/phacility/arcanist/), [libphutil](https://github.com/phacility/libphutil/)) -- Open source collection of web applications which makes it easier to scale software companies (founded at Facebook).
 
@@ -179,7 +179,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [qemu](https://www.qemu.org/) ([source](https://git.qemu.org/?p=qemu.git;a=blob;f=.editorconfig;h=b2022e391abfeaf4d7a4eb9b14e682ebf7ba8a43;hb=refs/heads/master)) -- QEMU is a generic and open source machine emulator and virtualizer.
 
-[React](https://facebook.github.io/react/) ([react](https://github.com/facebook/react/blob/master/.editorconfig)) -- JavaScript user interface library
+[React](https://facebook.github.io/react/) ([source](https://github.com/facebook/react/blob/master/.editorconfig)) -- JavaScript user interface library
 
 [React Native](http://facebook.github.io/react-native/) ([source](https://github.com/facebook/react-native/blob/master/.editorconfig)) -- A framework for building native apps with React
 
