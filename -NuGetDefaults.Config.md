@@ -1,0 +1,1 @@
+## /NuGetDefaults.Config
