@@ -1,14 +1,26 @@
-Issue [#89](https://github.com/editorconfig/editorconfig/issues/89).
+This page includes research for two options discussed in issue [#89](https://github.com/editorconfig/editorconfig/issues/89).
+
+## Option for displaying a vertical rules
+
+A new option will force editors to show a vertical rules at certain column(s).  
 
 ## Option for setting a maximum length for each line
 
-A `max_line_length` option (or similarly named option) will force either hard or soft line wrapping after the amount of characters specified.
+A `max_line_length` option (or similarly named option) will force either hard or soft line wrapping after the amount of characters specified.  
 
 ## Behavior
 
-When typing, the editor automatically wraps the current word to a new line if it reaches the given limit.
+1. The editor should display vertical rulers at the given rulers columns.
+2. When typing, the editor automatically wraps the current word to a new line if it reaches the given limit.
 
 ## Naming ideas
+
+For the first item:
+
+- rulers
+- line_width
+
+For the second item:
 
 - text_width
 - line_width
