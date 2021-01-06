@@ -139,6 +139,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [lodash](https://lodash.com/) ([source](https://github.com/lodash/lodash/blob/master/.editorconfig)) -- JavaScript utility library
 
+[macOSetup](https://sh0shin.org/macosetup/) ([source](https://github.com/sh0shin/macosetup/blob/master/.editorconfig)) -- macOS setup & configuration automation
+
 [Materialize](http://materializecss.com/) ([source](https://github.com/Dogfalo/materialize/blob/master/.editorconfig)) -- a CSS Framework based on Material Design
 
 [Material Design Lite](http://getmdl.io/) ([source](https://github.com/google/material-design-lite/blob/master/.editorconfig)) -- Google's Material Design Lite Components
