@@ -225,6 +225,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [TYPO3 CMS](http://www.typo3.org) ([source](https://git.typo3.org/Packages/TYPO3.CMS.git/blob/HEAD:/.editorconfig)) -- A enterprise content management framework
 
+[Unreal Engine](https://www.unrealengine.com) -- A multi-platform 3D game engine
+
 [video.js](http://videojs.com/) ([source](https://github.com/videojs/video.js/blob/master/.editorconfig)) -- open source HTML5 & Flash video player
 
 [Visual Studio Code](http://code.visualstudio.com/) ([source](https://github.com/Microsoft/vscode/blob/master/.editorconfig)) -- text editor
