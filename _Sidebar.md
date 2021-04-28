@@ -10,8 +10,6 @@
 - [Links & Resources](Links-&-Resources)
 - [Newline at End of File Support](Newline-at-End-of-File-Support)
 - [Plugin Guidelines](Plugin-Guidelines)
-
-
 - [Plugin How To](Plugin-How-To)
 - [Projects Using EditorConfig](Projects-Using-EditorConfig)
 - [Property research: maximum line length](Property-research%3A-maximum-line-length)
