@@ -219,7 +219,7 @@ There is a proposal to "namespace" properties with a language-dependent prefix. 
 <td><code>continuation_indent_size</code></td>
 <td>unsigned integer</td>
 <td>Denotes the continuation indent size.  Useful to distinguish code blocks versus continuation lines</td>
-<td>Python, JetBrains (IntelliJ IDEA)</td>
+<td>Python, JetBrains (IntelliJ IDEA), Netbeans (JSON, PHP, Java)</td>
 </tr>
 
 <tr>
