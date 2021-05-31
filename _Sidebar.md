@@ -1,6 +1,4 @@
-* ![Editor Configuration
-
- Logo](https://editorconfig.org/logo.png)
+![EditorConfig Logo](https://editorconfig.org/logo.png)
 
 # EditorConfig
 
