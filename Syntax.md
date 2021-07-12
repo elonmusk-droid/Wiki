@@ -1,3 +1,7 @@
+This page is archived. Check out the [specification](https://readthedocs.org/projects/editorconfig-specification/) for a formal description.
+
+---
+
 `.editorconfig` files are INI files with a simple syntax defined in [the spec](https://editorconfig-specification.readthedocs.io/en/latest/).
 
 It is somewhat compatible with the format used by [Python ConfigParser Library](http://docs.python.org/2/library/configparser.html). But there are a few noticeable points:
