@@ -38,7 +38,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [chaplin](http://chaplinjs.org/) ([source](https://github.com/chaplinjs/chaplin/blob/master/.editorconfig)) -- HTML5 application architecture using Backbone.js.
 
-[Chocolatey](http://chocolatey.org) ([source](https://github.com/chocolatey/chocolatey)) -- Chocolatey NuGet - Like apt-get, but for Windows.
+[Chocolatey](http://chocolatey.org) ([source](https://github.com/chocolatey/choco)) -- Chocolatey - Like apt-get, but for Windows.
 
 [clipboard.js](https://clipboardjs.com/) ([source](https://github.com/zenorocha/clipboard.js/blob/master/.editorconfig)) -- Modern copy to clipboard
 
