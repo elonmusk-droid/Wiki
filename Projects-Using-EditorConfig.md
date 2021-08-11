@@ -147,6 +147,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [Material UI](http://www.material-ui.com/) ([source](https://github.com/callemall/material-ui/blob/master/.editorconfig)) -- React Components that Implement Google's Material Design
 
+[MDSANIMA-DEV](https://github.com/mdsanima-dev/) ([source](https://github.com/mdsanima-dev/mdsanima-render-time/blob/master/.editorconfig)) -- Blender Addon for estimated total rendering time for all frames in your animation
+
 [MediaWiki](https://www.mediawiki.org) ([source](https://phabricator.wikimedia.org/source/mediawiki/browse/master/.editorconfig)) -- A wiki software
 
 [Mockito](http://site.mockito.org/) ([source](https://github.com/mockito/mockito/blob/release/2.x/.editorconfig)) -- A mocking framework for Java
