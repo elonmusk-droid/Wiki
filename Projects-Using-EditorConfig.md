@@ -54,7 +54,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [dragula](http://bevacqua.github.io/dragula/) ([source](https://github.com/bevacqua/dragula/blob/master/.editorconfig)) -- Drag and drop so simple it hurts
 
-[Drupal](http://drupal.org) ([source](http://cgit.drupalcode.org/drupal/tree/.editorconfig)) -- Drupal is an open source content management platform powering millions of websites and applications.
+[Drupal](http://drupal.org) ([source](https://git.drupalcode.org/project/drupal/blob/HEAD/.editorconfig)) -- Drupal is an open source content management platform powering millions of websites and applications.
 
 [ECMA262](https://tc39.github.io/ecma262/) ([source](https://github.com/tc39/ecma262/blob/master/.editorconfig)) -- Status, process, and documents for ECMA262
 
