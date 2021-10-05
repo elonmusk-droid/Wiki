@@ -122,6 +122,7 @@ An incomplete list of projects that are using EditorConfig:
 [JabbR](http://about.jabbr.net/) ([source](https://github.com/JabbR/JabbR)) -- JabbR is a chat application built with ASP.NET using SignalR.
 
 [Joomla! CMS](https://joomla.org/) ([source](https://github.com/joomla/joomla-cms/)) -- The official Joomla CMS project.
+[JPL Open Source Rover Project](https://opensourcerover.jpl.nasa.gov/) ([source](https://github.com/nasa-jpl/open-source-rover)) -- A build-it-yourself, 6-wheel rover based on the rovers on Mars
 
 [jQuery UI](http://jqueryui.com/) ([source](https://github.com/jquery/jquery-ui)) -- The official jQuery user interface library
 
@@ -180,6 +181,8 @@ An incomplete list of projects that are using EditorConfig:
 [pm2](http://pm2.keymetrics.io/) ([source](https://github.com/Unitech/pm2/blob/master/.editorconfig)) -- Production process manager for Node.js applications with a built-in load balancer
 
 [PoziWorld Elf](https://github.com/PoziWorld/PoziWorld-Elf) ([source](https://github.com/PoziWorld/PoziWorld-Elf/blob/master/.editorconfig)) -- control playback on music websites with your voice.
+
+[Python](https://www.python.org/) ([source](https://github.com/python/cpython/)) -- the Python programming language
 
 [qemu](https://www.qemu.org/) ([source](https://git.qemu.org/?p=qemu.git;a=blob;f=.editorconfig;h=b2022e391abfeaf4d7a4eb9b14e682ebf7ba8a43;hb=refs/heads/master)) -- QEMU is a generic and open source machine emulator and virtualizer.
 
