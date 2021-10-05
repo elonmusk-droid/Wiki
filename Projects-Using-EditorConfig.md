@@ -176,6 +176,8 @@ An incomplete list of projects that are using EditorConfig:
 
 [phaser](http://phaser.io/) ([source](https://github.com/photonstorm/phaser/blob/master/v3/.editorconfig)) -- fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers
 
+[PHP](https://www.php.net/) ([source](https://github.com/php/php-src)) -- The PHP programming language
+
 [PHP Censor](https://github.com/php-censor/php-censor) ([source](https://github.com/php-censor/php-censor/blob/master/.editorconfig)) -- Open source self-hosted continuous integration server for PHP projects
 
 [pm2](http://pm2.keymetrics.io/) ([source](https://github.com/Unitech/pm2/blob/master/.editorconfig)) -- Production process manager for Node.js applications with a built-in load balancer
@@ -198,7 +200,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [roots](http://roots.cx) ([source](https://github.com/jenius/roots)) -- a toolbox for building simple, beautiful, and efficient products for the web.
 
-[roslyn](https://github.com/dotnet/roslyn#readme) ([source](https://github.com/dotnet/roslyn/blob/master/.editorconfig)) -- .NET compiler platform
+[roslyn](https://github.com/dotnet/roslyn#readme) ([source](https://github.com/dotnet/roslyn/blob/master/.editorconfig)) -- The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 
 [Ruby](http://www.ruby-lang.org/) ([source](https://bugs.ruby-lang.org/projects/ruby-trunk/repository)) -- Ruby Programming Language
 
