@@ -212,7 +212,7 @@ An incomplete list of projects that are using EditorConfig:
 
 [select2](https://github.com/select2/select2) ([source](https://github.com/select2/select2/blob/master/.editorconfig)) -- jQuery-based select box replacement
 
-[SFML](http://www.sfml-dev.org) ([source](https://github.com/SFML/SFML/blob/master/.editorconfig)) -- SFML is a simple, fast, cross-platform and object-oriented multimedia API. It provides access to windowing, graphics, audio and network. It is written in C++, and has bindings for various languages such as C, .Net, Ruby, Python.
+[SFML](http://www.sfml-dev.org) ([source](https://github.com/SFML/SFML/blob/master/.editorconfig)) -- SFML is a simple, fast, cross-platform and object-oriented multimedia API. It provides access to windowing, graphics, audio and network. It is written in C++ and has bindings for various languages such as C, .Net, Ruby, Python.
 
 [SilverStripe](https://silverstripe.org) ([source](https://github.com/silverstripe/silverstripe-framework/blob/master/.editorconfig)) -- PHP5 framework forming the base for the SilverStripe CMS.
 
@@ -225,6 +225,8 @@ An incomplete list of projects that are using EditorConfig:
 [sweetalert](http://tristanedwards.me/sweetalert) ([source](https://github.com/t4t5/sweetalert/blob/master/.editorconfig)) -- replacement for JavaScript "alert"
 
 [Symfony](http://symfony.com/) ([source](https://github.com/symfony/symfony/blob/master/.editorconfig)) -- The Symfony PHP framework
+
+[three.js](https://threejs.org/) ([source](https://github.com/mrdoob/three.js/blob/dev/.editorconfig)) -- JavaScript 3D library for the Web
 
 [TodoMVC](http://todomvc.com) ([source](https://github.com/tastejs/todomvc)) -- A common learning application for popular JavaScript MV\* frameworks
 
