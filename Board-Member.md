@@ -7,7 +7,7 @@
 - Martijn Laarman [@mpdreamz](https://github.com/mpdreamz)
 - Trey Hunner [@treyhunner](https://github.com/treyhunner)
 - Johan Sundström [@johan](https://github.com/johan)
-- Florian Breisch [@florianb](https://github.com/florianb)
+- Florian Neumann [@florianb](https://github.com/florianb)
 - Peter Palaga [@ppalaga](https://github.com/ppalaga)
 
 ## New Member and Member Kick-out Rules
